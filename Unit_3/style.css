@@ -26,12 +26,12 @@ img {
 }
 
 .subtitle {
-	font-size: 18px;
+	font-size: 22px;
 	text-align: center;
 	font-weight: 600;
 }
 
-#ctrbulletlist ul {
+.ctrbulletlist ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
