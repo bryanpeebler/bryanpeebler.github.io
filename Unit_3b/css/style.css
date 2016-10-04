@@ -1,0 +1,14 @@
+body {
+	background-color: #FFF;
+	font-family: Helvetica;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
