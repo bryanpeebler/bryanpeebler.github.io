@@ -1,9 +1,9 @@
 body {
-	background-color: #AAC3CC;
+	background: #AAC3CC;
 	font-family: Helvetica;
 }
 h1 {
-	color:#000;
+	color: #000;
 }
 #tagline {
 	font-style: italic;
