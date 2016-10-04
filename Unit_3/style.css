@@ -1,9 +1,11 @@
 body {
 	background: #AAC3CC;
 	font-family: Helvetica;
+	color: #fff;
 }
 h1 {
-	color: #000;
+	color: #fff;
+	text-align: center;
 }
 #tagline {
 	font-style: italic;
