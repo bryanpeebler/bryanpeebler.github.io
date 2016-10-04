@@ -7,7 +7,8 @@ body {
 
 p {
 	padding: 0px 25px;
-	font-size: 16px;
+	font-size: 18px;
+	font-weight: 400;
 }
 
 h1 {
@@ -40,7 +41,7 @@ img {
 .subtitle {
 	font-size: 22px;
 	text-align: center;
-	font-weight: 600;
+	font-weight: 500;
 	font-style: italic;
 }
 
@@ -55,6 +56,7 @@ ul {
 
 .centertxt {
 	text-align: center;
+	font-weight: 400;
 }
 
 .emphasistxt {
