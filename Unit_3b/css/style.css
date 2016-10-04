@@ -10,8 +10,13 @@ ul{
 	overflow: hidden;
 	background-color: #333;
 	color: #FFF;
+
 }
 
 li {
 	display: inline;
+}
+
+a:link {
+	color: #FFF;
 }
