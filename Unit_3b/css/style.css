@@ -27,3 +27,9 @@ li a {
 li a:hover {
 	background-color: #111;
 }
+
+#carousel {
+	display: block;
+	margin: 0 auto;
+	align-content: center;
+}
