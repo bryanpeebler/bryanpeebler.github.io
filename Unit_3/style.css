@@ -11,7 +11,8 @@ h1 {
 	font-style: italic;
 	text-align: center;
 }
-img {
+img.center {
 	display: block;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
