@@ -14,11 +14,8 @@ h1 {
 	text-align: center;
 }
 
-div{
-	margin: 0 auto;
-}
 
 #center {
-	height: 400px;
-	width:400px;
+	height: 400;
+	width: 400;
 }
