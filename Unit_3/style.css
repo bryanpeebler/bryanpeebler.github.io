@@ -41,7 +41,7 @@ img {
 	font-size: 22px;
 	text-align: center;
 	font-weight: 600;
-	text-decoration: italic;
+	font-style: italic;
 }
 
 ul {
@@ -63,5 +63,5 @@ ul {
 }
 
 hr {
-	width: 65%;
+	width: 57%;
 }
