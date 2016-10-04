@@ -15,7 +15,7 @@ h1 {
 }
 
 
-#center {
-	height: 400;
-	width: 400;
+img {
+	display: block;
+	margin: 0 auto;
 }
