@@ -41,10 +41,12 @@ li a:hover {
 #missionh1 {
 	text-align: center;
 	font-weight: 600;
+	line-height: .5;
 }
 
 #missionh1b {
 	text-align: center;
 	font-weight: 600;
 	font-style: italic;
+	line-height: .5;
 }
