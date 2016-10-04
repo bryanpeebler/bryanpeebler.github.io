@@ -11,15 +11,17 @@ p {
 }
 
 h1 {
-	color: #AAC3CB;
 	text-align: center;
 	font-size: 36px;
+	line-height: .75;
 }
 
 #tagline {
 	font-style: italic;
 	text-align: center;
 	line-height: .75;
+	color: #AAC3CB;
+	font-weight: 500;
 }
 
 img {
