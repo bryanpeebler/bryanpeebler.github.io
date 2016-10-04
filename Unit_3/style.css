@@ -19,3 +19,8 @@ img {
 	margin: 0 auto;
 	align-content: center;
 }
+
+#pageclose {
+	font-weight: 700
+	text-align: center;
+}
