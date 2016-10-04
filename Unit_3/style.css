@@ -3,14 +3,21 @@ body {
 	font-family: Helvetica;
 	color: #fff;
 }
+
 h1 {
 	color: #fff;
 	text-align: center;
 }
+
 #tagline {
 	font-style: italic;
 	text-align: center;
 }
+
+div{
+	margin: 0 auto;
+}
+
 #center {
 	height: 400px;
 	width:400px;
