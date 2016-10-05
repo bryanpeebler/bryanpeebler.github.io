@@ -35,18 +35,18 @@ li a:hover {
 	align-content: center;
 }
 
-#missionh3 {
+.missionh3 {
 	text-align: center;
 }
 
-#missionh1 {
+.missionh1 {
 	text-align: center;
 	font-weight: 600;
 	line-height: .6;
 	font-size: 26px;
 }
 
-#missionh1b {
+.missionh1b {
 	text-align: center;
 	font-weight: 600;
 	font-style: italic;
