@@ -52,3 +52,10 @@ li a:hover {
 	line-height: .6;
 	font-size: 26px;
 }
+
+.logo {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
