@@ -107,7 +107,7 @@ li a:hover {
 }
 
 .backgroundbox3 {
-	display: block;
+	display: inline-block;
 	width: 275px;
 	height: 550px;
 	margin: 0 auto;
