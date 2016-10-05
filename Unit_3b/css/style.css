@@ -56,3 +56,20 @@ li a:hover {
 .logo {
 }
 
+div.background {
+	background: #000000;
+	border: none;
+}
+
+div.transbox {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 2px solid black;
+	opacity: 1.0;
+}
+
+div.transbox p {
+	margin: 5%;
+	font-weight: 500;
+	color: #000000;
+}
