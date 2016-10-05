@@ -148,6 +148,8 @@ li a:hover {
 
 a {
 	color: #195452;
+}
+
+.link_container {
 	text-align: center;
-	margin: 0 auto;
 }
