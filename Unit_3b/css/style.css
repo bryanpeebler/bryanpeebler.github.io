@@ -99,8 +99,9 @@ li a:hover {
 
 .backgroundbox2 {
 	display: block;
-	width: 800px;
-	height: 300px;
+	width: 1000px;
+	height: 600px;
 	margin: 0 auto;
-	border: 10px solid #000000;
+	border: 3px solid #000000;
+	text-align: center;
 }
