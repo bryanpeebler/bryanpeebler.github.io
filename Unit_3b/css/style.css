@@ -68,3 +68,11 @@ li a:hover {
 	font-weight: 600;
 	font-size: 18px;
 }
+
+.background {
+	display: block;
+	width: 400px;
+	height: 85px;
+	margin: 10px;
+	border: 1px #000;
+}
