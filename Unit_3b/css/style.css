@@ -120,6 +120,10 @@ li a:hover {
 	width: 250px;
 }
 
+.picturebox2 {
+	border:"3px solid #BFB8B4"
+}
+
 .Titleh3 {
 	line-height: .5;
 }
