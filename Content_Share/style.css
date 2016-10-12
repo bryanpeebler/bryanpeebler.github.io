@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Antic+Slab|Arvo|Belgrano|Karma|Raleway');
-
 body {
 	background-color: #E3E3E3;
-	font-family: Raleway;
-	font-weight:500;
+	font-family: Helvetica;
 	padding: 25px 50px;
 	color: #000;
 }
@@ -123,18 +120,12 @@ li a:hover {
 	width: 250px;
 }
 
-.picturebox2 {
-	border:3px solid #195452
-}
-
 .Titleh3 {
 	line-height: .5;
 }
 
 .boxtext {
-	text-align:left;
-	font-family: Antic Slab;
-	font-size: 16px;
+	text-align: justify;
 	padding: 0px 25px 0px 25px;
 }
 
