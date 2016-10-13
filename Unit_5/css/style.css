@@ -129,6 +129,8 @@ li a:hover {
 }
 
 .boxtext {
+	display: block;
+	height: 125px;
 	text-align:left;
 	font-family: Antic Slab;
 	font-size: 15px;
