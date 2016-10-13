@@ -31,6 +31,9 @@ li a:hover {
 	background-color: #111;
 }
 
+footer {
+	margin: 0 auto;
+}
 .wrapper {
 	margin: 0 auto 20px auto;
 }
