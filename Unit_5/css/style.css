@@ -45,7 +45,7 @@ iframe {
 
 .carousel {
 	display: block;
-	margin: 0 auto;
+	margin: 0 auto 1em;
 	align-content: center;
 }
 
@@ -73,14 +73,13 @@ iframe {
 .floating-box {
 	display: inline-block;
 	width: 150px;
-	height: 35px;
-	margin: 0 auto;
-	padding: 13px 0px 0px 0px;
+	margin: 1em auto;
+	padding: .75em 0;
 	border: 3px solid #BFB8B4;
 	text-align: center;
 	vertical-align: center;
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 16px;
 	background-color: #195452;
 	color: #FFF;
 }
@@ -136,13 +135,14 @@ iframe {
 	color: EBEDEB;
 	text-align: center;
 	font-size: 26px;
+	margin: .5em auto;
 }
 
 .backgroundbox3 {
 	display: inline-block;
 	width: 275px;
 	height: 570px;
-	margin: 0 auto;
+	margin: 1em auto;
 	border: 0px;
 	text-align: center;
 
@@ -156,7 +156,7 @@ iframe {
 }
 
 .Titleh3 {
-	line-height: .5;
+	margin: .25em auto .25em;
 }
 
 .boxtext {
@@ -165,8 +165,8 @@ iframe {
 	text-align:left;
 	font-family: Antic Slab;
 	font-size: 15px;
-	padding: 0px 25px 0px 25px;
-	line-height: 1.3
+	padding: 0 1.75em 0 1.75em;
+	line-height: 1.3;
 }
 
 .floating-box3 {
@@ -185,6 +185,7 @@ iframe {
 }
 .ctrtxt {
 	text-align: center;
+	margin: 0 auto 1em;
 }
 
 a {
