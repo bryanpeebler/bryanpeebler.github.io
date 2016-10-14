@@ -114,6 +114,7 @@ footer {
 	border: 0px;
 	padding: 5px 0 0 0;
 	text-align: center;
+	color: #FFF;
 }
 
 #Hope-Stories {
@@ -177,9 +178,4 @@ footer {
 
 a {
 	color: #195452;
-}
-
-#Our_Programs {
-	display: block;
-	background: #FFF;
 }
