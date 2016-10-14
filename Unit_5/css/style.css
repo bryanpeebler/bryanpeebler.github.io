@@ -52,7 +52,7 @@ footer {
 .missionh1 {
 	text-align: center;
 	font-size: 26px;
-	color: #EBEDEB;
+	color: #195452;
 }
 
 #missionh1b {
@@ -126,6 +126,12 @@ footer {
 	text-align: center;
 	background: #3FA19D;
 	color: #EBEDEB;
+}
+
+.graytitle {
+	color: EBEDEB;
+	text-align: center;
+	font-size: 26px;
 }
 
 .backgroundbox3 {
