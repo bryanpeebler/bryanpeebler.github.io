@@ -38,6 +38,9 @@ footer {
 	text-align: center;
 }
 
+iframe {
+	border: 3px solid #BFB8B4;
+}
 
 .carousel {
 	display: block;
