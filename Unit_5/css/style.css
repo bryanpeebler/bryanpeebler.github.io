@@ -178,6 +178,6 @@ a {
 }
 
 #Our_Programs {
+	display: block;
 	background: #FFF;
-	margin: 0px;
 }
