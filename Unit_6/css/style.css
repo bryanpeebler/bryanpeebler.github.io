@@ -213,3 +213,12 @@ a {
 	border: 2px solid #000;
 	overflow: auto;
 }
+
+.sectionbox2 {
+	border: none;
+	width: 80%;
+	height: 50%;
+	margin: 0 auto;
+	border: 2px solid #000;
+	overflow: auto;
+}
