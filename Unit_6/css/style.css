@@ -113,7 +113,7 @@ iframe {
 
 #Our_Programs {
 	display: block;
-	border: none;
+	border: 1px solid #000;
 	padding: 5px 0 0 0;
 	text-align: center;
 	background: #FFF;
