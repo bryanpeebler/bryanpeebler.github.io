@@ -142,7 +142,7 @@ iframe {
 .backgroundbox3 {
 	float: left;
 	border: 2px solid #000;
-	width: 33.3%;
+	min-width: 33.3%;
 	height: 100%;
 	margin: 0 auto;
 	padding: 20px;
