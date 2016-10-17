@@ -201,3 +201,9 @@ a {
 	clear: both;
 	height: 0;
 }
+
+.sectionbox {
+	border: 2px solid #000;
+	width=100%;
+	margin: 0 auto;
+}
