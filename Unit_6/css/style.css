@@ -113,7 +113,7 @@ iframe {
 
 #Our_Programs {
 	display: block;
-	border: 1px solid #000;
+	border: none
 	padding: 5px 0 0 0;
 	text-align: center;
 	background: #FFF;
@@ -142,7 +142,7 @@ iframe {
 .backgroundbox3 {
 	float: left;
 	width: 33%;
-	height: 90%;
+	height: 100%;
 	margin: 0, .25em;
 	border: 0px;
 	padding: 20px;
