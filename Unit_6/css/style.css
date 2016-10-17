@@ -141,7 +141,7 @@ iframe {
 
 .backgroundbox3 {
 	float: left;
-	border: 1px solid #FFF;
+	border: 1px solid #000;
 	width: 33%;
 	height: 100%;
 	margin: 0, .25em;
@@ -165,7 +165,7 @@ iframe {
 .boxtext {
 	display: block;
 	height: 40%;
-	border: 1px solid #FFF;
+	border: 1px solid #000;
 	text-align:left;
 	font-family: Antic Slab;
 	font-size: 15px;
