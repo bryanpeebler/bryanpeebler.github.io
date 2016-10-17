@@ -164,6 +164,7 @@ iframe {
 .boxtext {
 	display: block;
 	height: 40%;
+	width: 75%;
 	border: 1px solid #000;
 	text-align:left;
 	font-family: Antic Slab;
