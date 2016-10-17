@@ -162,8 +162,7 @@ iframe {
 }
 
 .boxtext {
-	display: block;
-	height: 40%;
+	display: 70%;
 	width: 75%;
 	border: 1px solid #000;
 	text-align:left;
