@@ -299,9 +299,8 @@ a {
 	border: 2px solid #000;
 }
 
-.containerbox {
-	width: 800px;
-	height: 800px;
-	margin: 0;
-	border: 2px solid #000000;
+.containbox {
+	width: 100%;
+	margin:0;
+	border:0;
 }
