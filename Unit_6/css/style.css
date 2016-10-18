@@ -300,7 +300,6 @@ a {
 }
 
 .containerbox {
-	display: block;
 	width: 100%;
 	margin: 0;
 	border: 2px solid #000;
