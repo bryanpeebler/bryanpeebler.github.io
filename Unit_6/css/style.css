@@ -225,8 +225,7 @@ a {
 
 .sectionbox-left {
 	float: left;
-	margin: 0 0 0 2.5%;
-	width: 30%;
+	width: 33.33%;
 	height: 100%;
 	margin: 0 auto;
 	border: 2px solid #000;
@@ -234,8 +233,7 @@ a {
 
 .sectionbox-center {
 	float: left;
-	margin: 0;
-	width: 30%;
+	width: 33.33%;
 	height: 100%;
 	margin: 0 auto;
 	border: 2px solid #000;
@@ -243,8 +241,7 @@ a {
 
 .sectionbox-right {
 	float: left;
-	margin: 0 2.5% 0 2.5%;
-	width: 30%;
+	width: 33.33%;
 	height: 100%;
 	margin: 0 auto;
 	border: 2px solid #000;
