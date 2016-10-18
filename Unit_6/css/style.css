@@ -223,7 +223,21 @@ a {
 	border: 2px solid #000;
 }
 
-.sectionbox3 {
+.sectionbox-left {
+	width: 30%;
+	height: 100%;
+	margin: 0 auto;
+	border: 2px solid #000;
+}
+
+.sectionbox-center {
+	width: 30%;
+	height: 100%;
+	margin: 0 auto;
+	border: 2px solid #000;
+}
+
+.sectionbox-right {
 	width: 30%;
 	height: 100%;
 	margin: 0 auto;
