@@ -98,15 +98,14 @@ iframe {
 
 .floating-box2 {
 	display: inline-block;
-	width: 75px;
-	height: 75px;
+	width: 10em;
 	margin: 0 auto;
-	padding: 10px 10px 10px 10px;
+	padding: .75em 0;
 	border: 3px solid #BFB8B4;
 	text-align: center;
 	vertical-align: center;
-	font-weight: 400;
-	font-size: 18px;
+	font-weight: 600;
+	font-size: 16px;
 	background-color: #195452;
 	color: #FFF;
 }
