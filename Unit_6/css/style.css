@@ -138,16 +138,41 @@ iframe {
 	margin: .5em auto;
 }
 
-.backgroundbox3 {
+.backgroundbox_left {
 	float: left;
 	border: 2px solid #000;
 	width: 25%;
 	height: 100%;
-	margin: 0 1.25%;
+	margin: 0 2.5% 0 7.5%;
 	padding: 20px;
 	text-align: center;
 
 }
+
+.backgroundbox_right {
+	float: left;
+	border: 2px solid #000;
+	width: 25%;
+	height: 100%;
+	margin: 0 7.5% 0 2.5%
+	padding: 20px;
+	text-align: center;
+
+}
+
+.backgroundbox_center {
+	float: left;
+	border: 2px solid #000;
+	width: 25%;
+	height: 100%;
+	margin: 0 2.5%;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+
 .picturebox {
 	width: 250px;
 }
