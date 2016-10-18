@@ -113,10 +113,10 @@ iframe {
 #Our_Programs {
 	display: block;
 	border: none
-	padding: 10px 0 0 0;
 	text-align: center;
 	background: #FFF;
 	margin: auto;
+	padding: .5%
 }
 
 #Hope-Stories {
@@ -124,7 +124,7 @@ iframe {
 	width: 100%;
 	margin: 0 auto;
 	border: 0px;
-	padding: 5px 0 0 0;
+	padding: 1%;
 	text-align: center;
 	background: #3FA19D;
 	color: #EBEDEB;
