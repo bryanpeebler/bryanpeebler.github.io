@@ -141,7 +141,7 @@ iframe {
 .backgroundbox_left {
 	float: left;
 	border: 2px solid #000;
-	width: 20%;
+	width: 22%;
 	height: 100%;
 	margin: 0 1.5% 0 14%;
 	padding: 20px;
@@ -152,7 +152,7 @@ iframe {
 .backgroundbox_right {
 	float: left;
 	border: 2px solid #000;
-	width: 20%;
+	width: 22%;
 	height: 100%;
 	margin: 0 14% 0 1.5%;
 	padding: 20px;
@@ -163,7 +163,7 @@ iframe {
 .backgroundbox_center {
 	float: left;
 	border: 2px solid #000;
-	width: 20%;
+	width: 22%;
 	height: 100%;
 	margin: 0 1.5%;
 	padding: 20px;
