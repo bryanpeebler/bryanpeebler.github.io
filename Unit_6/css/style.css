@@ -164,7 +164,8 @@ iframe {
 }
 
 img.picturebox2 {
-	border:3px solid #195452
+	border:3px solid #195452;
+	width: 75%;
 }
 
 .Titleh3 {
