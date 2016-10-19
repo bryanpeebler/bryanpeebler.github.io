@@ -97,6 +97,9 @@ iframe {
 	vertical-align: center;
 }
 
+.wrapper {
+	margin: 0 auto;
+}
 .floating-box2 {
 	display: inline-block;
 	width: 55%;
