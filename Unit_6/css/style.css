@@ -138,7 +138,7 @@ iframe {
 	margin: .5em auto;
 }
 
-.backgroundbox3 {
+.backgroundbox_left {
 	float: left;
 	border: none;
 	width: 33.3%;
@@ -149,6 +149,27 @@ iframe {
 
 }
 
+.backgroundbox_center {
+	float: left;
+	border: none;
+	width: 33.3%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+
+}
+
+.backgroundbox_right {
+	float: left;
+	border: none;
+	width: 33.3%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+
+}
 .backgroundbox4 {
 	float: left;
 	border: none;
