@@ -69,6 +69,7 @@ iframe {
 	background: rgba(255, 255, 255, .8); 
 	margin: 1% auto 2%;
 	width: 80%;
+	max-width: 95vh;
 }
 
 #missionh1b {
