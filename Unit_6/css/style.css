@@ -96,10 +96,15 @@ iframe {
 	vertical-align: center;
 }
 
+.wrapper {
+	background-image: url(images/Mentor_picture_large.png);
+}
+
 .wrapper2 {
 	margin: 0 auto;
 	text-align: center;
 }
+
 .floating-box2 {
 	display: inline-block;
 	width: 13%;
