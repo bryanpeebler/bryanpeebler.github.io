@@ -61,22 +61,26 @@ iframe {
 .missionh3 {
 	text-align: center;
 	color: #FFF;
+	font-size: 2vh;
+	text-shadow: 2px 2px #000;
+
 }
 
 .missionh1 {
 	text-align: center;
-	font-size: 26px;
+	font-size: 2.6vh;
 	color: #195452;
 	background: rgba(255, 255, 255, .8); 
 	margin: 1% auto 2%;
 	width: 80%;
 	padding: 1% 0;
+	max-width: 95vh;
 }
 
 #missionh1b {
 	text-align: center;
 	font-style: italic;
-	font-size: 26px;
+	font-size: 2.6vh;
 	color: #000;
 }
 
