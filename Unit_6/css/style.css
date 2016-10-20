@@ -47,8 +47,8 @@ iframe {
 #Splash {
 	background: url("./../images/Mentor_picture_large.png");
 	width: 89%;
-	min-height: 40em;
-	padding: 40%;
+	height:30%;
+	margin: 0 auto 5%;
 }
 
 .carousel {
