@@ -32,6 +32,10 @@ li a:hover {
 	background-color: #111;
 }
 
+ul.textlist {
+	color: #000;
+}
+
 header {
 	padding: 10px 50px;
 }
