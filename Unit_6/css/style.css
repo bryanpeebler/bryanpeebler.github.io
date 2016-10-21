@@ -235,6 +235,10 @@ img.picturebox2 {
 	width: 75%;
 }
 
+img.picturebox3 {
+	border:3px solid #195452;
+	width: 15%;
+}
 .Titleh3 {
 	margin: .25em auto .25em;
 }
