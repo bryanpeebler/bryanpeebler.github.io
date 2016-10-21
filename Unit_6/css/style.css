@@ -37,7 +37,8 @@ ul.textlist {
 }
 
 li.textlist {
-	
+	color: #000
+	background-color: none;
 }
 
 header {
