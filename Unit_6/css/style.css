@@ -15,6 +15,9 @@ ul.menu {
 	background-color: #327B82;
 }
 
+li {
+	list-style-position: inside;
+}
 li.menu {
 	float: left;
 }
