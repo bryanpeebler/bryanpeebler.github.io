@@ -7,6 +7,10 @@ body {
 	color: #000;
 }
 
+h1 {
+	margin: 0 0 .5% 0;
+}
+
 ul.menu {
 	list-style-type: none;
 	margin: 0;
@@ -28,7 +32,6 @@ li a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-
 }
 
 li a:hover {
@@ -132,7 +135,7 @@ iframe {
 }
 
 .wrapper4 {
-	margin: 0 5%;
+	margin: 2% 7%;
 }
 .floating-box2 {
 	display: inline-block;
@@ -197,7 +200,6 @@ iframe {
 	margin: 0 1.5% 0 14%;
 	padding: 0px;
 	text-align: center;
-
 }
 
 .backgroundbox_center {
@@ -208,7 +210,6 @@ iframe {
 	margin: 0 1.5% 0 1.5%;
 	padding: 0px;
 	text-align: center;
-
 }
 
 .backgroundbox_right {
@@ -219,8 +220,8 @@ iframe {
 	margin: 0 14% 0 1.5%;
 	padding: 0;
 	text-align: center;
-
 }
+
 .backgroundbox4 {
 	float: left;
 	border: none;
@@ -229,7 +230,6 @@ iframe {
 	margin: 0 auto;
 	padding: 1%;
 	text-align: center;
-
 }
 
 .picturebox {
@@ -246,7 +246,7 @@ img.picturebox3 {
 	display: block;
 	border:3px solid #195452;
 	width: 25%;
-	margin: 1% auto;
+	margin: 1% auto 0 2%;
 }
 
 .Titleh3 {
