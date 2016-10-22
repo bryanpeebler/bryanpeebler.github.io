@@ -24,6 +24,7 @@ li {
 }
 li.menu {
 	float: left;
+	padding: 0 0 0 1%;
 }
 
 li a {
