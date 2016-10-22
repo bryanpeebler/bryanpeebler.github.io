@@ -61,6 +61,10 @@ iframe {
 	border: 3px solid #BFB8B4;
 }
 
+.ital {
+	font-style: italic;
+}
+
 #Splash {
 	background: url("./../images/Mentor_picture_large.png");
 	background-size: cover;
