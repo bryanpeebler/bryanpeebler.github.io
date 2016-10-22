@@ -136,7 +136,9 @@ iframe {
 }
 
 .wrapper4 {
-	margin: 2% 7%;
+	width: 100%;
+	padding: 2% 0 2% 5%;
+	background: #FFF;
 }
 .floating-box2 {
 	display: inline-block;
@@ -247,7 +249,7 @@ img.picturebox3 {
 	display: block;
 	border:3px solid #195452;
 	width: 25%;
-	margin: 1% auto 0 2%;
+	margin: 1% 5% 0 2%;
 }
 
 .Titleh3 {
