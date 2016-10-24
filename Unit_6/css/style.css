@@ -109,7 +109,7 @@ iframe {
 
 .logo {
 	margin: 0px 0px 10px 0px;
-	width: 11%;
+	width: 150px;
 }
 
 .floating-box {
@@ -151,12 +151,11 @@ iframe {
 }
 
 .wrapper5 {
-	width: 80%;
+	width: 100%;
 	padding: 2% 6% 3% 6%;
 	background: #3FA19D;
 	color: #EBEDEB;
-	margin: 2% auto;
-	border: 3px solid #BFB8B4;
+	border-top: 3px solid #BFB8B4;
 }
 
 .floating-box2 {
@@ -268,14 +267,14 @@ img.picturebox3 {
 	display: block;
 	border:3px solid #195452;
 	width: 20%;
-	margin: 1% 0% 0 2%;
+	margin: 1% 0% 0 5%;
 }
 
 img.picturebox4 {
 	float: left;
 	display: block;
 	border:3px solid #195452;
-	width: 20%;
+	width: 15%;
 	margin: 0 3% 0 0%;
 }
 
