@@ -398,12 +398,16 @@ a {
 	border: none;
 }
 
-footer {
+.footer {
 	background: #E3E3E3;
 	margin: auto;
-	padding: 5% 0;
+	padding: 2% 0;
 }
 
 form {
 	margin: 2% 0 0 0;
+}
+
+#contact_footer {
+	clear: both;
 }
