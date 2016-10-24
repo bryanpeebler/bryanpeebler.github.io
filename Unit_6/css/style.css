@@ -53,13 +53,12 @@ li a:hover {
 	background-color: #111;
 }
 
-ul.textlist {
-	color: #000;
-}
 
-li.textlist {
-	color: #000
+.textlist {
+	color: #000;
 	list-style-type: none;
+	line-height: .05em;
+	font-family: Raleway;
 }
 
 header {
