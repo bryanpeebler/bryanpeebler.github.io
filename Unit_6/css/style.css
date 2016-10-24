@@ -420,5 +420,5 @@ form {
 }
 
 .gnp_badge {
-	display: inline-block;
+	float: left;
 }
