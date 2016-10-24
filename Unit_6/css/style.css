@@ -422,3 +422,7 @@ form {
 .gnp_badge {
 	display: flex;
 }
+
+.gnp_badge2 {
+	margin: 0 0 0 5%;
+}
