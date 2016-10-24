@@ -8,8 +8,9 @@ body {
 }
 
 p {
+	padding: .5% 0 0 0;
 	font-family: Antic Slab;
-	font-size: 1.25em;
+	font-size: 1.05em;
 }
 
 h1 {
@@ -31,9 +32,13 @@ ul.menu {
 li {
 	list-style-position: inside;
 	padding: 0 0 0 1%;
+	font-family: Antic Slab;
+	font-size: 1.05em;
 }
+
 li.menu {
 	float: left;
+	font-family: Raleway;
 }
 
 li a {
