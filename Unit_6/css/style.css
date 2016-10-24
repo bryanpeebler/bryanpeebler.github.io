@@ -9,7 +9,7 @@ body {
 
 p {
 	padding: .5% 0 0 0;
-	font-family: Antic Slab;
+	font-family: Antic Slb;
 	font-size: 1.05em;
 }
 
@@ -29,35 +29,38 @@ ul.menu {
 	background-color: #327B82;
 }
 
-li {
-	list-style-position: inside;
-	padding: 0 0 0 1%;
-	font-family: Antic Slab;
-	font-size: 1.05em;
-}
-
 li.menu {
 	float: left;
 	font-family: Raleway;
-}
-
-li a {
 	display: block;
-	color: white;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+}
+
+a.menu {
+	color: #FFF;
 }
 
 li a:hover {
 	background-color: #111;
 }
 
+li {
+	list-style-position: inside;
+	padding: 0 0 0 1%;
+	font-family: Raleway;
+	font-size: 1em;
+}
+
+li.textlist {
+	font-family: Raleway;
+}
 
 .textlist {
 	color: #000;
 	list-style-type: none;
-	line-height: .05em;
+	line-height: 1.4em;
 	font-family: Raleway;
 }
 
@@ -216,7 +219,7 @@ iframe {
 }
 
 .graytitle {
-	color: EBEDEB;
+	color: #000;
 	text-align: center;
 	font-size: 1.5em;
 	margin: .25em auto .75em;
@@ -295,7 +298,7 @@ img.picturebox4 {
 	margin: 0 1.5% 0 14%;
 	padding: 0px;
 	list-style-type: none;
-	color: #000;
+	color: #;
 }
 
 .footer_center {
@@ -356,7 +359,6 @@ img.picturebox4 {
 }
 
 a {
-	color: #195452;
 	text-decoration: none;
 }
 
