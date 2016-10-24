@@ -21,7 +21,7 @@ h2 {
 	margin: 0 0 1% 0;
 }
 
-ul.menu {
+ul.menu{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -38,9 +38,11 @@ li.menu {
 	text-decoration: none;
 }
 
-a.menu {
+.menu a {
 	color: #FFF;
 }
+
+
 
 li a:hover {
 	background-color: #111;
@@ -53,15 +55,14 @@ li {
 	font-size: 1em;
 }
 
-li.textlist {
-	font-family: Raleway;
-}
-
 .textlist {
-	color: #000;
 	list-style-type: none;
 	line-height: 1.4em;
 	font-family: Raleway;
+}
+
+.textlist a {
+	color: #000;
 }
 
 .wrapper4 p {
