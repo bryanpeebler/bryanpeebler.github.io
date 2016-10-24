@@ -65,6 +65,9 @@ li {
 	color: #000;
 }
 
+.textlist a:hover {
+	color: aquamarine;
+}
 .wrapper4 p {
 	font-family: Antic Slab;
 }
@@ -335,6 +338,10 @@ img.picturebox4 {
 	color: #000;
 }
 
+.footer p {
+	font-family: Antic Slab;
+	font-size: 1em;
+}
 .Titleh3 {
 	margin: .25em auto .25em;
 }
