@@ -63,7 +63,7 @@ li.textlist {
 }
 
 header {
-	padding: 10px 50px;
+	margin: 2% 5% 0;
 }
 
 footer {
@@ -82,8 +82,7 @@ iframe {
 #Splash {
 	background: url("./../images/Mentor_picture_large.png");
 	background-size: cover;
-	width: 89%;
-	margin: 0 auto 5%;
+	margin: 1% 5% 2%;
 	padding: 20% 0 0 0;
 }
 
@@ -147,6 +146,7 @@ iframe {
 
 .wrapper3 {
 	background: url("../../images/Mentor_picture_large.png");
+
 }
 
 .wrapper2 {
@@ -201,7 +201,7 @@ iframe {
 	border: none
 	text-align: center;
 	background: #FFF;
-	margin: auto;
+	margin: 0 auto;
 	padding: .5%;
 }
 
