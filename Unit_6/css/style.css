@@ -288,6 +288,36 @@ img.picturebox4 {
 	margin: 0 3% 0 0%;
 }
 
+.footer_left {
+	float: left;
+	border: none;
+	width: 22%;
+	height: 100%;
+	margin: 0 1.5% 0 14%;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.footer_center {
+	float: left;
+	border: none;
+	width: 22%;
+	height: 100%;
+	margin: 0 1.5% 0 1.5%;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.footer_right {
+	float: left;
+	border: none;
+	width: 22%;
+	height: 100%;
+	margin: 0 14% 0 1.5%;
+	padding: 0;
+	list-style-type: none;
+}
+
 .Titleh3 {
 	margin: .25em auto .25em;
 }
