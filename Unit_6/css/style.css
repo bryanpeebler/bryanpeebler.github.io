@@ -109,7 +109,7 @@ iframe {
 
 .logo {
 	margin: 0px 0px 10px 0px;
-	width: 13%;
+	width: 15%;
 }
 
 .floating-box {
@@ -155,7 +155,7 @@ iframe {
 	padding: 2% 6% 3% 6%;
 	background: #3FA19D;
 	color: #EBEDEB;
-	margin: auto;
+	margin: 2% auto;
 	border: 3px solid #BFB8B4;
 }
 
@@ -275,8 +275,8 @@ img.picturebox4 {
 	float: left;
 	display: block;
 	border:3px solid #195452;
-	width: 15%;
-	margin: 0 2% 0 0%;
+	width: 25%;
+	margin: 0 3% 0 0%;
 }
 
 .Titleh3 {
