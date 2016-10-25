@@ -281,7 +281,7 @@ iframe {
 
 .biobox2 {
 	float: left;
-	width: 50%;
+	width: 70%;
 }
 
 .biobox3 {
@@ -290,7 +290,7 @@ iframe {
 }
 
 .biobox_container {
-	padding: 2% 0 0 0;
+	padding: 5% 0 0 0;
 	clear: both;
 	width: 100%;
 }
