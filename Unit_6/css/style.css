@@ -285,6 +285,7 @@ iframe {
 }
 
 .biobox_container {
+	padding: 2% 0 0 0;
 	clear: both;
 	width: 100%;
 }
