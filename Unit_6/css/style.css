@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Antic+Slab');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Antic+Slab|Roboto+Slab: 100,300,400');
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
 body {
@@ -9,8 +9,9 @@ body {
 
 p {
 	padding: .5% 0 0 0;
-	font-family: Antic Slab;
-	font-size: 1.05em;
+	font-family: Roboto Slab;
+	font-size: 1.0em;
+	font-weight: 100;
 }
 
 h1 {
@@ -73,10 +74,12 @@ li {
 	color: aquamarine;
 }
 .wrapper4 p {
-	font-family: Antic Slab;
+	font-family: Roboto Slab;
+	font-size: .9em;
+	font-weight: 300;
 }
 .wrapper5 p {
-	font-family: Antic Slab;
+	font-family: Roboto Slab;
 }
 
 .wrapper4 li {
