@@ -285,6 +285,7 @@ iframe {
 }
 
 .biobox_container {
+	clear: both;
 	width: 80%;
 }
 
@@ -333,7 +334,7 @@ img.picturebox5 {
 img.picturebox6 {
 	float: left;
 	display: block;
-	width: 15%;
+	width: 25%;
 	margin: 0 3% 0 0%;
 }
 .footer_left {
