@@ -277,6 +277,7 @@ iframe {
 .biobox {
 	float: left;
 	width: 80%;
+	margin: 0 0 2% 0;
 }
 
 .biobox2 {
