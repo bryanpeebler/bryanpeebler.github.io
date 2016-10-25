@@ -274,6 +274,11 @@ iframe {
 	text-align: center;
 }
 
+.biobox {
+	float: left;
+	width: 70%;
+}
+
 .backgroundbox4 {
 	float: left;
 	border: none;
@@ -315,6 +320,7 @@ img.picturebox5 {
 	width: 13%;
 	margin: 0 3% 0 0%;
 }
+
 .footer_left {
 	float: left;
 	border: none;
