@@ -83,7 +83,7 @@ li {
 }
 
 .wrapper4 li {
-	font-family: Antic Slab;
+	font-family: Roboto Slab;
 }
 
 header {
@@ -392,13 +392,12 @@ img.picturebox6 {
 }
 
 .boxtext {
-	display: 70%;
 	width: 85%;
 	text-align:left;
-	font-family: Antic Slab;
-	font-size: 15px;
+	font-family: Roboto Slab;
+	font-size: .9em;
 	padding: 0 5% 5%;
-	line-height: 1.3;
+	line-height: 1.4;
 	margin: 0 auto;
 }
 
