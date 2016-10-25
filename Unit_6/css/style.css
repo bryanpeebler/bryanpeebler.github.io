@@ -360,7 +360,8 @@ img.picturebox6 {
 	margin: 0 1.5% 0 14%;
 	padding: 0px;
 	list-style-type: none;
-	color: #;
+	color: #000;
+	text-align: center;
 }
 
 .footer_center {
