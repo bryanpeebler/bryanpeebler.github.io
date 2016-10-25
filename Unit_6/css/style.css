@@ -21,6 +21,10 @@ h2 {
 	margin: 0 0 1% 0;
 }
 
+h2.biotitle {
+	margin: 0;
+}
+
 ul.menu{
 	list-style-type: none;
 	margin: 0;
