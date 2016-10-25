@@ -279,6 +279,15 @@ iframe {
 	width: 80%;
 }
 
+.biobox2 {
+	float: left;
+	width: 40%;
+}
+
+.biobox_container {
+	width: 80%;
+}
+
 .backgroundbox4 {
 	float: left;
 	border: none;
