@@ -290,14 +290,15 @@ iframe {
 	font-size: .9em
 }
 
-.biobox_container {
-	padding: 5% 0 0 0%;
-	clear: both;
-	width: 100%;
+.biobox3_right {
+	float: left;
+	width: 50%;
+	font-size: .9em
+	margin: 0 0 3% 0;
 }
 
-.biobox_container_right {
-	padding: 5% 0 0 0;
+.biobox_container {
+	padding: 5% 0 0 0%;
 	clear: both;
 	width: 100%;
 }
