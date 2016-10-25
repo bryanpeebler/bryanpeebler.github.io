@@ -284,6 +284,11 @@ iframe {
 	width: 50%;
 }
 
+.biobox3 {
+	float: left;
+	width: 50%;
+}
+
 .biobox_container {
 	padding: 2% 0 0 0;
 	clear: both;
