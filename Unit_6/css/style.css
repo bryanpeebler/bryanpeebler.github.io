@@ -149,6 +149,11 @@ iframe {
 	width: 150px;
 }
 
+.highlight_text {
+	font-weight: bold;
+	color: #195452;
+}
+
 .floating-box {
 	display: inline-block;
 	width: 10em;
