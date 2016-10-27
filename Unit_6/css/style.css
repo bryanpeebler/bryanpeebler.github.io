@@ -489,15 +489,3 @@ form {
 	font-size: .9em;
 	font-weight: 500;
 }
-
-#wrap {
-    position: relative;
-    width: 400px;
-    height: 250px;
-    background-color: silver;
-}
-
-#video {
-    position: absolute;
-    z-index: 99999;
-}
