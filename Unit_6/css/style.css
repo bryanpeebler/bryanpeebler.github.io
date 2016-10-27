@@ -15,7 +15,7 @@ p {
 }
 
 h1 {
-	margin: 1% auto 2%;
+	margin: 1% auto 1%;
 	text-align: center;
 
 }
@@ -189,7 +189,7 @@ iframe {
 
 .wrapper4 {
 	margin: 1% 5% 0;
-	padding: 2% 5% 3% 5%;
+	padding: .5% 5% 3% 5%;
 	background: #FFF;
 }
 
