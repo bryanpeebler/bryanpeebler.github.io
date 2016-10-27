@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Antic+Slab|Roboto+Slab: 100,300,400');
-*{margin: 0; padding: 0; box-sizing: border-box; -webkit-font-smoothing: antialiased;
-text-rendering: optimizeLegibility}
+*{margin: 0; padding: 0; box-sizing: border-box;}
 
 body {
 	background-color: #E3E3E3;
