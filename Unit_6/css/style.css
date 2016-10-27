@@ -262,7 +262,7 @@ iframe {
 	border: none;
 	width: 22%;
 	height: 100%;
-	margin: 0 1.5% 0 14%;
+	margin: .5% 1.5% 0 14%;
 	padding: 0px;
 	text-align: center;
 }
@@ -272,7 +272,7 @@ iframe {
 	border: none;
 	width: 22%;
 	height: 100%;
-	margin: 0 1.5% 0 1.5%;
+	margin: .5% 1.5% 0 1.5%;
 	padding: 0px;
 	text-align: center;
 }
@@ -282,7 +282,7 @@ iframe {
 	border: none;
 	width: 22%;
 	height: 100%;
-	margin: 0 14% 0 1.5%;
+	margin: .5% 14% 0 1.5%;
 	padding: 0;
 	text-align: center;
 }
