@@ -532,3 +532,7 @@ p.quote_header {
 	font-size: 1.1em;
 	margin: 0 0 1% 0;
 }
+
+iframe {
+	float: left;
+}
