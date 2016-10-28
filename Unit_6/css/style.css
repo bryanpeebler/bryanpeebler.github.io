@@ -527,9 +527,8 @@ form {
 	border: 3px solid #BFB8B4;
 }
 
-.quote_header {
+p.quote_header {
 	font-style: italic;
 	font-size: 1.2em;
 	margin: 0 0 1% 0;
-	font-weight: bold;
 }
