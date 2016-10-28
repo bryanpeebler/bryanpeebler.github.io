@@ -486,6 +486,7 @@ form {
 }
 
 .gnp_badge {
+	margin: 5% 0 0 0;
 	display: flex;
 }
 
