@@ -83,6 +83,10 @@ li {
 	font-size: 1em;
 	font-weight: 300;
 }
+
+.wrapper4 h1 {
+	clear:both;
+}
 .wrapper5 p {
 	font-family: Roboto Slab;
 }
