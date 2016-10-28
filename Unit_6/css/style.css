@@ -378,10 +378,9 @@ img.picturebox7 {
 }
 
 img.picturebox8 {
-	float: left;
 	display: block;
 	border:3px solid #195452;
-	width: 50%;
+	width: 60%;
 	margin: 1% auto 2%;
 }
 
@@ -534,7 +533,7 @@ form {
 	float: right;
 	display: block;
 	width: 35%;
-	margin: -2% 0 0 3%;
+	margin: 1% 0 0 3%;
 }
 
 .video {
