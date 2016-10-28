@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<title>Volunteer Opportunities</title>
+	<title>A Place for Hope</title>
 </head>
 
 <body>
@@ -23,22 +23,26 @@
 		</nav>
 	</header>
 	<section class="wrapper4 clearfix">
-		<h1>Volunteer Opportunities:  The Gift of Time</h1>
-		<img class="picturebox3" src="images/time_gift.png">
-		<p>Volunteering is an amazing way to help the children served by Folsom's Hope!  It doesn't take much -- just an hour or so a week -- to change the life of an at-risk child.<br><br>  There are several ways you can help, including:</p>
-		<ul>
-			<li><a href="Mentoring.html">1:1 mentoring</a> during elementary and middle school lunchtimes</li>
-			<li>After-school <a href="Tutoring.html">tutoring and homework help</a></li>
-			<li>Providing in-class help at Folsom Lake High School</li>
-			<li>Joining the Pray Team, on most Mondays, to pray for our schools and the surrounding community</li>
-		</ul>
+		<h1>A Place for Hope</h1>
+		<img class="picturebox3" src="images/FH_Center.png">
+		<img class="picturebox3" src="images/FH_Center2.png">
+		<img class="picturebox3" src="images/FH_Floorplan.png">
+		<iframe src="https://player.vimeo.com/video/53746644?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+		<p>PLACEHOLDER TEXT Folsom is a prosperous city where family, community, service and generosity are strongly held values. <span class="highlight_text">But in the midst of this prosperity there is also great need.</span> Families are broken. Parents are caught in the grip of destructive behavior. And children bear the consequence.<br>
 		<br>
-		<p> If you'd like to learn more about volunteer opportunities, contact Salwa Kasabian.  We are happy to help guide you to the right opportunity!</p>
+		<span class="highlight_text">When a child lives in turmoil, just getting through the day is a monumental effort</span> — and things like schoolwork, learning, reading, recreation, nutrition and even basic hygiene (things most of us take for granted in our families) become an afterthought.<br>
 		<br>
-		<p class="ital"> Note: Some volunteer opportunities require fingerprinting and a TB test.  The Folsom's Hope team can help facilitate this process. </p>
+		Without intervention, these negative early experiences shape a child’s identity well into adulthood. <span class="highlight_text">"I experienced something bad" becomes "I AM something bad." </span> The cycle repeats itself, and the dysfunction passes from generation to generation. <br>
+		<br>
+		<span class="highlight_text"> But it doesn’t have to be this way.</span><br>
+		<br>
+		Research shows—and our own experiences affirm—that <span class="highlight_text">caring, consistent, one-on-one attention can have a transformative effect on the lives of struggling children.</span><br>
+		<br>
+		And so Folsom’s Hope is doing just that: mentoring, tutoring, supporting, encouraging and nurturing at-risk students—elementary, middle and high school—right here in our own city.
 	</section>
 
-	<section class="wrapper5 clearfix">
+	section class="wrapper5 clearfix">
 		<img class="picturebox5" src="images/Salwa.png">
 		<h2>A Volunteer's Perspective</h2>
 		<p>I've had the opportunity to work with Folsom's Hope kids for several years now, in both the mentoring and tutoring programs.  Seeing how these kids progress with just a little bit of love and help has been amazing.  I've learned as much from the kids as they've learned from me!!!  <br><br> -- Sonja S., Folsom's Hope Volunteer</p>
