@@ -381,8 +381,8 @@ img.picturebox8 {
 	float: left;
 	display: block;
 	border:3px solid #195452;
-	width: 40%;
-	margin: 1% 0% 2% 5%;
+	width: 50%;
+	margin: 1% auto 2%;
 }
 
 .footer_left {
