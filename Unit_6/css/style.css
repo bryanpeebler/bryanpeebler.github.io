@@ -88,6 +88,7 @@ li {
 	clear:both;
 	margin: auto;
 }
+
 .wrapper5 p {
 	font-family: Roboto Slab;
 }
@@ -543,6 +544,7 @@ form {
 }
 
 p.quote_header {
+	clear:both;
 	font-style: italic;
 	font-size: 1.1em;
 	margin: 0 0 1% 0;
