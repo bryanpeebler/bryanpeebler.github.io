@@ -486,12 +486,12 @@ form {
 }
 
 .gnp_badge {
-	margin: 5% 0 0 0;
+	margin: 3% 0 0 0;
 	display: flex;
 }
 
 .gnp_badge2 {
-	margin: 5% 25% 0 10%;
+	margin: 0% 25% 0 10%;
 }
 
 .gnp_badge2 p {
