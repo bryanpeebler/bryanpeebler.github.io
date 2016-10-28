@@ -524,6 +524,7 @@ form {
 }
 
 .hopebox2 {
+	clear:both;
 	float: right;
 	display: block;
 	width: 35%;
