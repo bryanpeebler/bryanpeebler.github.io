@@ -561,4 +561,10 @@ iframe {
 
 .partnerbox {
 	float:left;
+	width: 50%;
+}
+
+.partnerbox2 {
+	float:left;
+	width: 40%;
 }
