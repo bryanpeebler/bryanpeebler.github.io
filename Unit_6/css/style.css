@@ -551,6 +551,7 @@ p.quote_header {
 	font-size: 1.1em;
 	margin: -1% 0 2% 0;
 	text-align: center;
+	padding: 0 2%;
 }
 
 iframe {
