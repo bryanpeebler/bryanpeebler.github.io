@@ -86,7 +86,7 @@ li {
 
 .wrapper4 h1 {
 	clear:both;
-	margin: auto;
+	margin: 1% auto 1%;
 }
 
 .wrapper5 p {
@@ -521,7 +521,7 @@ form {
 .hopetext {
 	font-size: 1em;
 	width: 70%;
-	margin: 0 auto 1%;
+	margin: 1% auto 1%;
 }
 
 .hopebox {
