@@ -175,7 +175,6 @@ iframe {
 	text-align: center;
 	vertical-align: center;
 	font-weight: 600;
-	font-size: 16px;
 	background-color: #327B82;
 	color: #FFF;
 }
@@ -191,7 +190,6 @@ iframe {
 
 .wrapper3 {
 	background: url("../../images/Mentor_picture_large.png");
-
 }
 
 .wrapper2 {
@@ -222,7 +220,6 @@ iframe {
 	text-align: center;
 	vertical-align: center;
 	font-weight: 600;
-	font-size: 16px;
 	background-color: #195452;
 	color: #FFF;
 }
@@ -236,7 +233,6 @@ iframe {
 	text-align: center;
 	vertical-align: center;
 	font-weight: 600;
-	font-size: 16px;
 	background-color: #195452;
 	color: #FFF;
 }
@@ -331,10 +327,6 @@ iframe {
 	margin: 0 auto;
 	padding: 1%;
 	text-align: center;
-}
-
-.picturebox {
-	width: 250px;
 }
 
 img.picturebox2 {
@@ -439,21 +431,6 @@ img.picturebox8 {
 	margin: 0 auto;
 }
 
-.floating-box3 {
-	display: block;
-	width: 150px;
-	height: 35px;
-	margin: 10 auto;
-	padding: 13px 0px 0px 0px;
-	border: 3px solid #BFB8B4;
-	text-align: center;
-	vertical-align: center;
-	font-weight: 500;
-	font-size: 18px;
-	background-color: #195452;
-	color: #FFF;
-	clear:both;
-}
 .ctrtxt {
 	text-align: center;
 	margin: 0 auto 2em;
