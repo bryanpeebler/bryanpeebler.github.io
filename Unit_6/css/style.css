@@ -550,3 +550,12 @@ iframe {
 .wrapper5 h2 {
 	margin: .5%;
 }
+
+.footer a {
+	color: #000;
+}
+
+.footer a:hover {
+	color: aquamarine;
+	background-color: black;
+}
