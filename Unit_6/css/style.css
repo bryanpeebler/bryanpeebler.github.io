@@ -595,6 +595,18 @@ iframe {
     .h1 {
     	font-size: .95em;
     }
+    .graytitle {
+    	font-size: 1.25em
+    }
+    .hopebox h3 {
+		font-size: 1.1em;
+    }
+	.hopebox p {
+		font-size: .9em
+	}
+	.Titleh3 {
+		font-size: 1.1em;
+	}
     .wrapper4 h1 {
     	font-size: 1.25em;
     }
