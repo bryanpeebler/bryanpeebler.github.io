@@ -595,4 +595,27 @@ iframe {
     .h1 {
     	font-size: .95em;
     }
+    .wrapper4 h1 {
+    	font-size: 1.25em;
+    }
+
+    .wrapper4 p {
+    	font-size: .9em;
+    }
+
+    .wrapper4 li {
+    	font-size: .9em;
+    }
+
+    .wrapper5 p {
+    	font-size: .9em;
+    }
+
+    .wrapper5 h2 {
+    	font-size: 1.3em
+    }
+
+    img.picturebox3 {
+    	width: 35%;
+    }
 } 
