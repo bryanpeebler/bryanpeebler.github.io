@@ -727,6 +727,7 @@ iframe {
         margin: 0 0 3% 2%;
     }
     #hiddenbox1 {
-        display: show;
+        clear:both;
+        display: block;
     }
 }
