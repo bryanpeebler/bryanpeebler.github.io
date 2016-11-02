@@ -689,6 +689,13 @@ iframe {
 
 @media only screen and (max-width: 667px) {
     
+    .missionh1, .missionh1b {
+        font-size: 1em;
+    }
+    .missionh3 {
+        font-size: .8em;
+    }
+
     .backgroundbox_left {
         display: block;
         float: none;
