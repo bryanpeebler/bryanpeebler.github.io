@@ -605,7 +605,9 @@ iframe {
         font-size: .9em
     }
     .Titleh3 {
-        font-size: 1.05em;
+        font-size: 1.25em;
+        font-weight: bold;
+        text-align: center;
     }
     
     .wrapper h1 {
