@@ -730,4 +730,8 @@ iframe {
         clear:both;
         display: block;
     }
+
+    #hiddenbox2 {
+        display: none;
+    }
 }
