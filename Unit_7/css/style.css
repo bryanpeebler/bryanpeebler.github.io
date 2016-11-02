@@ -689,7 +689,61 @@ iframe {
 
 @media only screen and (max-width: 667px) {
     
+    @media only screen and (max-width: 667px) {
+    
+    .missionh1, .missionh1b {
+        font-size: 1em;
+    }
+    .missionh3 {
+        font-size: .8em;
+    }
+
     .backgroundbox_left {
+        display: block;
+        float: none;
+        width: 100%;
+        clear: both;
+        margin: 1% 1% 2% 1%;
+    }
+
+    .backgroundbox_right {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 1% 1% 2% 1%;
+        clear: both;
+    }
+    .backgroundbox_center {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 1% 1% 2% 1%;
+        clear: both;
+    }
+    
+    .titleh3 {
+        width: 45%;
+        margin: 0 0 0 1%;
+    }
+    img.picturebox2 {
+        float: left;
+        width: 25%;
+  
+    }
+    .boxtext {
+        float: left;
+        width: 65%;
+        margin: 0 0 3% 2%;
+    }
+    #hiddenbox1 {
+        clear:both;
+        display: block;
+    }
+
+    #hiddenbox2 {
+        display: none;
+    }
+}.backgroundbox_left {
         display: block;
         float: none;
         width: 100%;
