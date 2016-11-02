@@ -1,4 +1,4 @@
-@@media only screen and (max-width: 971px) {
+@media only screen and (max-width: 971px) {
     li.menu {
     	font-size: .85em;
     }
@@ -62,32 +62,8 @@
     img.picturebox3 {
     	width: 35%;
     }
-
-    img.picturebox6 {
-    	width: 25%
-    }
-
-    img.picturebox5 {
-    	width: 20%
-    }
-
-    h2.biotitle {
-    	font-size: 1.2em
-    }
-
-  	.biobox h3 {
-    	font-size: 1em;
-    }
-
-    .biobox3 h3 {
-    	font-size: 1em
-    }
-
-    .biobox2 p {
-    	font-size: .9em
-    }
-
-    .biobox {
-		width: 70%;
-    }
+	
+	.hopebox2 {
+		width: 40%;
+	}
 } 
