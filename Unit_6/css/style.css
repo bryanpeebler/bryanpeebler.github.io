@@ -574,6 +574,10 @@ iframe {
     background-color: black;
 }
 
+#hiddenbox1 {
+    display: none;
+}
+
 @media only screen and (max-width: 971px) {
     li.menu {
         font-size: .85em;
@@ -678,6 +682,9 @@ iframe {
     .boxtext {
         font-size: .8em;
     }
+    .titleh3 {
+        font-size: 1.1em;
+    }
 }
 
 @media only screen and (max-width: 667px) {
@@ -718,5 +725,8 @@ iframe {
         float: left;
         width: 65%;
         margin: 0 0 3% 2%;
+    }
+    #hiddenbox1 {
+        display: show;
     }
 }
