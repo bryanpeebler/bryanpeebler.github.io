@@ -427,10 +427,14 @@ img.picturebox8 {
     font-family: Antic Slab;
     font-size: 1em;
 }
-.Titleh3 {
-    margin: .25em auto .25em;
-}
 
+.titleh3 {
+    font-family: Raleway;
+    font-size: 1.25em;
+    font-weight: 600;
+    text-align: center;
+    margin: 1% 0 1% 0;
+}
 .boxtext {
     width: 85%;
     text-align:left;
@@ -700,12 +704,11 @@ iframe {
         margin: 1% 1% 2% 1%;
         clear: both;
     }
-
-    .Titleh3 {
-        margin: 0 0 0% 6%;
-        width: 45%;       
-    }
     
+    .titleh3 {
+        width: 45%;
+        margin: 0 0 0 1%;
+    }
     img.picturebox2 {
         float: left;
         width: 25%;
@@ -714,7 +717,6 @@ iframe {
     .boxtext {
         float: left;
         width: 65%;
-        border: 1px solid black;
         margin: 0 0 3% 2%;
     }
 }
