@@ -587,7 +587,7 @@ iframe {
         font-size: .90em;
     }
     .floating-box2_center {
-        font-size: .95em;
+        font-size: .90em;
     }
     .boxtext {
         font-size: .85em;
@@ -671,5 +671,48 @@ iframe {
 
     .boxtext {
         font-size: .8em;
+    }
+}
+
+@media only screen and (max-width: 667px) {
+    
+    .backgroundbox_left {
+        display: block;
+        float: none;
+        width: 100%;
+        clear: both;
+        margin: 1% 1% 2% 1%;
+    }
+
+    .backgroundbox_right {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 1% 1% 2% 1%;
+        clear: both;
+    }
+    .backgroundbox_center {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 1% 1% 2% 1%;
+        clear: both;
+    }
+
+    .Titleh3 {
+        margin: 0 0 0% 6%;
+        width: 45%;       
+    }
+    
+    img.picturebox2 {
+        float: left;
+        width: 25%;
+  
+    }
+    .boxtext {
+        float: left;
+        width: 65%;
+        border: 1px solid black;
+        margin: 0 0 3% 2%;
     }
 }
