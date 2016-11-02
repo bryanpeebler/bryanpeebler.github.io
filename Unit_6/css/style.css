@@ -646,6 +646,11 @@ iframe {
 } 
 
 @media only screen and (max-width: 768px) {
+    li.menu {
+        font-size: .81em;
+        padding: 2% 1.3%
+    }
+
     .floating-box2 {
         width: 20%;
     }
@@ -656,5 +661,15 @@ iframe {
     .boxtext {
         width: 100%;
         margin: 4% 0 0 0;
+    }
+    .missionh1, .missionh1b {
+        font-size: 1.2em;
+    }
+    .missionh3 {
+        font-size: .95em;
+    }
+
+    .boxtext {
+        font-size: .8em;
     }
 }
