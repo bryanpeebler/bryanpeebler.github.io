@@ -188,7 +188,8 @@ iframe {
     border: 3px solid #BFB8B4;
     text-align: center;
     vertical-align: center;
-    font-weight: 600;
+    font-size: 1.1em;
+    font-weight: 400;
     background-color: #327B82;
     color: #FFF;
 }
@@ -764,5 +765,4 @@ iframe {
 
     #hiddenbox2 {
         display: none;
-    }
-}
+ 
