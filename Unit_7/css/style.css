@@ -87,7 +87,8 @@ li {
 
 .wrapper4 h1 {
     clear:both;
-    margin: 1% auto 1%;
+    margin: 1% auto 2%;
+    font-weight: 400;
 }
 
 .wrapper5 p {
