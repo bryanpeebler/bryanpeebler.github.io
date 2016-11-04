@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600|Roboto+Slab:100,300');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600|Roboto+Slab:100,300,400,500');
 
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
@@ -29,12 +29,14 @@ h2 {
 h2.biotitle {
     margin: 0;
     text-align: left;
+    color: #FFF;
     font-size: 1.25em;
 }
 
 h2.biotitle2 {
     margin: 0;
     text-align: left;
+    color: #FFF;
     font-size: 1.5em;
 }
 h3 {
@@ -174,7 +176,7 @@ iframe {
 }
 
 .highlight_text {
-    font-weight: 500;
+    font-weight: 600;
     color: #000;
 }
 
