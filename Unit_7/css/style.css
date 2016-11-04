@@ -32,7 +32,9 @@ h2.biotitle {
 
 h3 {
     margin: 1% 0 0% 0;
+    font-weight: 400;
 }
+
 ul.menu{
     list-style-type: none;
     margin: 0;
@@ -227,13 +229,12 @@ iframe {
 
 .floating-box2_center {
     display: inline-block;
-    width: 13%;
     margin: 0 12%;
-    padding: .75em 0.5em;
+    padding: .75em 1.25em;
     border: 3px solid #BFB8B4;
     text-align: center;
     vertical-align: center;
-    font-weight: 600;
+    font-weight: 400;
     background-color: #195452;
     color: #FFF;
 }
@@ -264,6 +265,7 @@ iframe {
     text-align: center;
     font-size: 1.5em;
     margin: .25em auto .75em;
+    font-weight: 400
 }
 
 .backgroundbox_left {
@@ -514,9 +516,9 @@ form {
 }
 
 .hopetext {
-    font-size: 1em;
     width: 70%;
     margin: .5% auto 1.5%;
+    font-weight:200;
 }
 
 .hopebox {
