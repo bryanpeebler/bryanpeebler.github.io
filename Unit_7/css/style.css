@@ -615,7 +615,7 @@ iframe {
     img.picturebox2 {
         width: 70%;
     }
-
+}
 @media only screen and (max-width: 971px) {
     .missionh1, .missionh1b {
         font-size: 1.25em;
@@ -664,6 +664,9 @@ iframe {
         font-size: 1.3em
     }
 
+    img.picturebox2 {
+        width: 80%;
+    }
     img.picturebox3 {
         width: 35%;
     }
@@ -678,36 +681,62 @@ iframe {
     }
 } 
 
+@media only screen and (max-width: 927px) {
+    .boxtext {
+        padding: 0;
+    }
+    .backgroundbox {
+        height: 34.5em;
+    }
+}
+
 @media only screen and (max-width: 886px) {
     .floating-box2 {
         padding: .75em .8em;
     }
+}
 
 @media only screen and (max-width: 861px) {
     .boxtext {
         padding: 0;
     }
     .backgroundbox {
-        height: 34em;
+        height: 36em;
     }
+    img.picturebox2 {
+        width: 90%;
+    }
+}
 
+@media only screen and (max-width: 848px) {
+    .backgroundbox2 {
+        height: 31em;
+    }
 @media only screen and (max-width: 841px) {
     .floating-box2 {
         padding: .75em .5em;
     }
+}
 
 @media only screen and (max-width: 820px) {
     .boxtext {
         padding: 0;
     }
     .backgroundbox {
-        height: 36em;
+        height: 37.5em;
     }
+}
+
+@media only screen and (max-width: 800px) {
+    .backgroundbox2 {
+        padding: 1em 1em;
+        height: 30.5em;
+        }
 }
 
 @media only screen and (max-width: 792px) {
     .backgroundbox {
-        height: 37em;
+        height: 38.5em;
     }
 }
 
@@ -719,6 +748,10 @@ iframe {
 }
 
 @media only screen and (max-width: 768px) {
+    .backgroundbox {
+        height: 38em;
+    }
+    
     li.menu {
         padding: 2% 1.3%
     }
@@ -779,7 +812,7 @@ iframe {
     }
     img.picturebox2 {
         float: left;
-        width: 25%;
+        width: 90%;
         margin-right: 2em;
     }
     .boxtext {
