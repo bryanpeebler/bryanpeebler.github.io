@@ -288,6 +288,7 @@ iframe {
 
 .container {
     width: 90%;
+    margin: auto;
 }
 
 .backgroundbox_right {
