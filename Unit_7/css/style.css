@@ -1,17 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway|Antic+Slab|Roboto+Slab: 100,300,400');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600|Roboto+Slab:100,300');
+
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
 body {
     background-color: #E3E3E3;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     color: #000;
     font-size: 17px;
+    font-weight:400;
 }
 
 p {
-    padding: .5% 0 0 0;
-    font-family: Roboto Slab;
-    font-size: 1.0em;
+    font-family: 'Roboto Slab', serif;
     font-weight: 100;
 }
 
@@ -41,12 +41,11 @@ ul.menu{
 
 li.menu {
     float: left;
-    font-family: Raleway;
     display: block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: .95em;
+    font-size: 1em;
 }
 
 .menu a {
@@ -61,14 +60,12 @@ li a:hover {
 li {
     list-style-position: inside;
     padding: 0 0 0 1%;
-    font-family: Raleway;
     font-size: 1em;
 }
 
 .textlist {
     list-style-type: none;
     line-height: 1.4em;
-    font-family: Raleway;
 }
 
 .textlist a {
@@ -79,7 +76,7 @@ li {
     color: aquamarine;
 }
 .wrapper4 p {
-    font-family: Roboto Slab;
+    font-family: 'Roboto Slab', serif;
     font-size: 1em;
     font-weight: 300;
 }
@@ -90,11 +87,11 @@ li {
 }
 
 .wrapper5 p {
-    font-family: Roboto Slab;
+    font-family: 'Roboto Slab', serif;
 }
 
 .wrapper4 li {
-    font-family: Roboto Slab;
+    font-family: 'Roboto Slab', serif;
     font-size: 1em;
     font-weight: 300;
 }
@@ -214,16 +211,15 @@ iframe {
 }
 
 .floating-box2 {
-    display: inline-block;
-    width: 13%;
-    margin: 0 0 2% 0;
-    padding: .75em 0.5em;
+    padding: .75em 1em;
     border: 3px solid #BFB8B4;
-    text-align: center;
-    vertical-align: center;
     font-weight: 600;
     background-color: #195452;
     color: #FFF;
+    position: absolute;
+    bottom: 2em;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .floating-box2_center {
@@ -277,14 +273,13 @@ iframe {
     text-align: center;
 }
 
-.backgroundbox_center {
+.backgroundbox {
     float: left;
-    border: none;
-    width: 22%;
-    height: 100%;
-    margin: 1% 1.5% 0 1.5%;
-    padding: 0px;
+    width: 33.33%;
+    padding: 2em;
     text-align: center;
+    position: relative;
+    height: 38em;
 }
 
 .backgroundbox_right {
@@ -334,6 +329,8 @@ iframe {
 img.picturebox2 {
     border:3px solid #195452;
     width: 75%;
+    display: block;
+    margin: 0 auto;
 }
 
 img.picturebox3 {
@@ -429,20 +426,14 @@ img.picturebox8 {
 }
 
 .titleh3 {
-    font-family: Raleway;
     font-size: 1.25em;
     font-weight: 600;
     text-align: center;
-    margin: 1% 0 1% 0;
+    margin: 1em 0;
 }
 .boxtext {
-    width: 85%;
     text-align:left;
-    font-family: Roboto Slab;
-    font-size: .9em;
-    padding: 2% 5% 5%;
     line-height: 1.4;
-    margin: 0 auto;
 }
 
 .ctrtxt {
@@ -502,9 +493,8 @@ form {
 }
 
 .gnp_badge2 p {
-    font-family: Raleway;
-    font-size: .9em;
-    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
 }
 
 .hopepic {
@@ -575,7 +565,7 @@ iframe {
 }
 
 #hiddenbox1 {
-    display: none;
+    /* display: none; */
 }
 
 @media only screen and (max-width: 971px) {
@@ -722,17 +712,18 @@ iframe {
     }
     
     .titleh3 {
-        width: 45%;
+        /* width: 45%; */
         margin: 0 0 0 1%;
+        text-align: left;
     }
     img.picturebox2 {
         float: left;
         width: 25%;
-  
+        margin-right: 2em;
     }
     .boxtext {
-        float: left;
-        width: 65%;
+        /* float: left; */
+        /* width: 73%; */
         margin: 0 0 3% 2%;
     }
     #hiddenbox1 {
