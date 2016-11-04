@@ -227,6 +227,13 @@ iframe {
     transform: translateX(-50%);
 }
 
+.floating-box3 {
+    padding: .75em 1.25em;
+    border: 3px solid #BFB8B4;
+    font-weight: 400;
+    background-color: #195452;
+    color: #FFF;
+}
 .floating-box2_center {
     display: inline-block;
     margin: 0 12%;
