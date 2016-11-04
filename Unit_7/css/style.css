@@ -275,15 +275,6 @@ iframe {
     font-weight: 400
 }
 
-.backgroundbox_left {
-    float: left;
-    border: none;
-    width: 22%;
-    height: 100%;
-    margin: 1% 1.5% 0 14%;
-    padding: 0px;
-    text-align: center;
-}
 
 .backgroundbox {
     float: left;
@@ -291,8 +282,18 @@ iframe {
     padding: 1.5em 2em;
     text-align: center;
     position: relative;
-    height: 34em;
-    margin:
+    height: 33.5em;
+    margin: auto;
+}
+
+.backgroundbox2 {
+    float: left;
+    width: 33.33%;
+    padding: 1.5em 2em;
+    text-align: center;
+    position: relative;
+    height: 30em;
+    margin: auto;
 }
 
 .container {
