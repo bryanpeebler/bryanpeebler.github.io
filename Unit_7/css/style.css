@@ -824,6 +824,7 @@ iframe {
     }
 }
 
+
 @media only screen and (max-width: 667px) {
 
     .missionh1 {
@@ -869,5 +870,9 @@ iframe {
     }
     .logo {
         margin: 1em auto 1em;
+    }
+    img.picturebox2 {
+        width: 35%;
+        margin: 0 5% 0 0;
     }
 }
