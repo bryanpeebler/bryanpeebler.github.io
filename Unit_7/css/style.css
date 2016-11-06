@@ -729,6 +729,9 @@ iframe {
     .backgroundbox {
         height: 37.5em;
     }
+    .hopepic {
+        width: 50%;
+    }
 }
 
 @media only screen and (max-width: 800px) {
@@ -768,10 +771,18 @@ iframe {
     }
 }
 
+@media only screen and (max-width: 731px) {
+    .backgroundbox {
+        height: 37em;
+    }
+    .backgroundbox2 {
+        height: 32em;
+    }
+
 @media only screen and (max-width: 728px) {
     .backgroundbox2 {
         padding: .75em;
-        height: 29.5em;
+        height: 31em;
     }
 }
     
@@ -801,6 +812,10 @@ iframe {
         width: 100%;
        
     }
+    .hopepic {
+        width: 60%;
+    }
+    
     img.picturebox2 {
         float: left;
         width: 30%;
