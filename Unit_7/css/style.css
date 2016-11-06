@@ -535,8 +535,9 @@ form {
 }
 
 .hopetext {
+    display: block;
     width: 70%;
-    margin: .5% auto 3%;
+    margin: .5em auto 2em;
     font-weight: 200;
 }
 
@@ -782,7 +783,7 @@ iframe {
     }
     .backgroundbox2 {
         width: 100%;
-        height: 17em;
+        height: 14em;
     }
     .titleh3 {
         display: block;
