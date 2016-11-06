@@ -818,4 +818,10 @@ iframe {
     .floating-box2 {
         clear: none;
     }
+    .hopebox {
+        margin: 0 0 2.5em 0;
+    }
+    .hopetext { 
+        width: 30em;
+    }
 }
