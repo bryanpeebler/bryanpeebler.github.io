@@ -617,7 +617,10 @@ iframe {
     }
 }
 @media only screen and (max-width: 971px) {
-    .missionh1, .missionh1b {
+    .missionh1 {
+        font-size: 1.25em;
+    }
+    , .missionh1b {
         font-size: 1.25em;
     }
     .missionh3 {
@@ -773,58 +776,45 @@ iframe {
     
 @media only screen and (max-width: 667px) {
     
-    @media only screen and (max-width: 667px) {
-    
-    .missionh1, .missionh1b {
-        font-size: 1em;
-    }
-    .missionh3 {
-        font-size: .8em;
-    }
-
-    .backgroundbox_left {
-        display: block;
-        float: none;
+    .backgroundbox {
         width: 100%;
-        clear: both;
-        margin: 1% 1% 2% 1%;
+        height: 17em;
     }
-
-    .backgroundbox_right {
-        display: block;
-        float: none;
+    .backgroundbox2 {
         width: 100%;
-        margin: 1% 1% 2% 1%;
-        clear: both;
+        height: 17em;
     }
-    .backgroundbox_center {
-        display: block;
-        float: none;
-        width: 100%;
-        margin: 1% 1% 2% 1%;
-        clear: both;
-    }
-    
     .titleh3 {
-        /* width: 45%; */
-        margin: 0 0 0 1%;
+        display: block;
+        width: 100%;
         text-align: left;
+        margin:  0 1% 0;
+        clear: none;
+        float: none;
+    }
+    .container {
+        width: 95%;
+    }
+    .boxtext {
+        display: block;
+        width: 100%;
+       
     }
     img.picturebox2 {
         float: left;
-        width: 90%;
-        margin-right: 2em;
-    }
-    .boxtext {
-        /* float: left; */
-        /* width: 73%; */
-        margin: 0 0 3% 2%;
-    }
-    #hiddenbox1 {
-        clear:both;
-        display: block;
+        width: 30%;
+        margin: 0 3% 0 0;
     }
 
-    #hiddenbox2 {
-        display: none;
- 
+    .missionh1 {
+        font-size: 1.3em;
+        max-width: none;
+    }
+
+    .missionh3 {
+        font-size: 1.1em;
+    }
+    .floating-box2 {
+        clear: none;
+    }
+}
