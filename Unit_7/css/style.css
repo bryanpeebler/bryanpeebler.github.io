@@ -825,9 +825,7 @@ iframe {
 }
 
 @media only screen and (max-width: 667px) {
-    .logo {
 
-    }
     .missionh1 {
         font-size: 1.1em;
         width: 90%;
@@ -851,6 +849,7 @@ iframe {
     }
     .logo {
         display: block;
+        margin: .25em auto .25em;
     }
     .footer {
         width: 100%;
@@ -867,5 +866,8 @@ iframe {
     .footer_right {
         width: 50%;
         margin: 0 0 0 0;
+    }
+    .logo {
+        margin: 1em auto 1em;
     }
 }
