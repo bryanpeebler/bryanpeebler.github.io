@@ -171,7 +171,7 @@ iframe {
 }
 
 .logo {
-    margin: 0px 0px 10px 0px;
+    margin: 0 auto .5em;
     width: 150px;
 }
 
@@ -815,13 +815,57 @@ iframe {
     .missionh3 {
         font-size: 1.1em;
     }
-    .floating-box2 {
-        clear: none;
-    }
+
     .hopebox {
         margin: 0 0 2.5em 0;
     }
     .hopetext { 
-        width: 30em;
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 667px) {
+    .logo {
+
+    }
+    .missionh1 {
+        font-size: 1.1em;
+        width: 90%;
+    }
+    .missionh3 {
+        font-size: 1em;
+        margin: 0 0.5em .75em;
+    }
+    .floating-box {
+        font-size: 1em;
+        margin: .5em 0 .25em 
+    }
+    #Splash {
+        padding: 2em 0 2em 0;
+    }
+    .backgroundbox {
+        height: 20em;
+    }
+    .backgroundbox2 {
+        height: 16em;
+    }
+    .logo {
+        display: block;
+    }
+    .footer {
+        width: 100%;
+    }
+    .footer_left {
+        display: block;
+        width: 100%;
+        margin: 0 auto 1em;
+    }
+    .footer_center {
+        width: 50%;
+        margin: 0 0 0 0;
+    }
+    .footer_right {
+        width: 50%;
+        margin: 0 0 0 0;
     }
 }
