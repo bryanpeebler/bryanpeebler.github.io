@@ -1042,7 +1042,7 @@ iframe {
     }
     img.picturebox5 {
         float: none;
-        width: 45%;
+        width: 10em;
         margin: 1% auto 3%;
     }
     .wrapper5 p {
@@ -1050,10 +1050,5 @@ iframe {
     }
     .wrapper5 h2 {
         margin: 0 0 .5em 0;
-    }
-}
-@media only screen and (max-width: 338px) {
-    .backgroundbox {
-        height: 
     }
 }
