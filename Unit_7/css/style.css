@@ -176,7 +176,7 @@ iframe {
 }
 
 .highlight_text {
-    font-weight: 600;
+    font-weight: 500;
     color: #000;
 }
 
@@ -615,6 +615,30 @@ iframe {
     }
     img.picturebox2 {
         width: 70%;
+    }
+    img.picturebox5 {
+        width: 18%;
+    }
+    img.picturebox6 {
+        width: 14%;
+    }
+    .biobox {
+        width: 75%;
+        margin: 0 0 2% 0;
+    }
+    .biobox3 {
+        width: 100%;
+        margin: 1% 0;
+    }
+    .biobox2 {
+        width: 80%;
+    }
+    .biobox_container {
+        margin: 0;
+        padding: 0;
+    }
+    h3.graytitle {
+        margin: 3% 0 0 0;
     }
 }
 @media only screen and (max-width: 971px) {
