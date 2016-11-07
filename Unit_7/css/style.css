@@ -759,10 +759,9 @@ iframe {
         height: 34.5em;
     }
 }
-
 @media only screen and (max-width: 768px) {
     .backgroundbox {
-        height: 38em;
+        height: 36em;
     }
     
     li.menu {
