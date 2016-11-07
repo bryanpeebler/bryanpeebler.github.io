@@ -601,6 +601,10 @@ iframe {
     display: none;
 }
 
+@media only screen and (max-width: 1420px) {
+    .backgroundbox2 {
+        height: 29em;
+    }
 @media only screen and (max-width: 1196px) {
     .boxtext {
         padding: 0 1.25em;
