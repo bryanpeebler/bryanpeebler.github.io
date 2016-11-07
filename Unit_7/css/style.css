@@ -621,11 +621,11 @@ iframe {
     .missionh1 {
         font-size: 1.25em;
     }
-    , .missionh1b {
+    .missionh1b {
         font-size: 1.25em;
     }
     .missionh3 {
-        font-size: 1em;
+        font-size: 1.1em;
     }
     .floating-box2 {
         padding: .75em 1em;
@@ -815,74 +815,30 @@ iframe {
     }
     .hopepic {
         width: 60%;
-    }
-    
+    } 
     img.picturebox2 {
         float: left;
         width: 30%;
         margin: 0 4% .3% 0;
     }
-
     .missionh1 {
         font-size: 1.3em;
         max-width: none;
     }
-
     .missionh3 {
         font-size: 1.1em;
     }
-
     .hopebox {
         margin: 0 0 2.5em 0;
     }
     .hopetext { 
         width: 90%;
     }
-    .floating-box2 {
-        display: none;
-    }
-    .floating-box2.hiddenbox {
-        display: block;
-        clear: both;
-    }
 }
 
-@media only screen and (max-width: 442px) {
-    
-    img.picturebox2 {
-        margin: 0 4% 0 0;
-    }
-    .backgroundbox {
-        height: 19em;
-    }
-  }
-
-@media only screen and (max-width: 375px) {
-
-    .missionh1 {
-        font-size: 1.1em;
-        width: 90%;
-    }
-    .missionh3 {
-        font-size: 1em;
-        margin: 0 0.5em .75em;
-    }
-    .floating-box {
-        font-size: 1em;
-        margin: .5em 0 .25em 
-    }
-    #Splash {
-        padding: 2em 0 2em 0;
-    }
-    .backgroundbox {
-        height: 20em;
-    }
+@media only screen and (max-width: 612px) {
     .backgroundbox2 {
-        height: 16em;
-    }
-    .logo {
-        display: block;
-        margin: .25em auto .25em;
+        height: 15em;
     }
     .footer {
         width: 100%;
@@ -900,11 +856,78 @@ iframe {
         width: 50%;
         margin: 0 0 0 0;
     }
+    .missionh3 {
+        font-size: 1.05em
+    }
+
+@media only screen and (max-width: 552px) {
+    .missionh3 {
+        font-size: 1em;
+    }
+    .missionh1 {
+        font-size: 1.2em;
+    }
+    .floating-box {
+        font-size: 1em;
+    }
+
+@media only screen and (max-width: 480px) {
+    .backgroundbox {
+        height: 17.5em;
+    }
+    .backgroundbox2 {
+        height: 16em;
+    }
+
+@media only screen and (max-width: 442px) {
+    
+    img.picturebox2 {
+        margin: 0 4% 0 0;
+    }
+    .backgroundbox {
+        height: 19em;
+    }
+  }
+
+@media only screen and (max-width: 397px) {
+    .floating-box {
+        font-size: 1em;
+        margin: .1em 0 .05em 
+    }
+    #Splash {
+        padding: 2em 0 2em 0;
+    }
+    .missionh3 {
+        padding: 0 .5em;
+    }
     .logo {
+        display: block;
         margin: 1em auto 1em;
     }
+}
+
+@media only screen and (max-width: 375px) {
+
+    .missionh1 {
+        font-size: 1.1em;
+        width: 90%;
+    }
+    .missionh3 {
+        font-size: 1em;
+        margin: 0 0.5em .75em;
+    }
+    .floating-box {
+        font-size: 1em;
+        margin: .5em 0 .25em 
+    }
+    .backgroundbox {
+        height: 20em;
+    }
+    .backgroundbox2 {
+        height: 17em;
+    }
     img.picturebox2 {
-        width: 35%;
+        width: 38%;
         margin: 0 5% 0 0;
     }
 }
@@ -912,3 +935,4 @@ iframe {
     .backgroundbox {
         height: 
     }
+}
