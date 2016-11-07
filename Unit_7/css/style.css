@@ -102,11 +102,13 @@ li {
 
 .wrapper5 p {
     font-family: 'Roboto Slab', serif;
+    font-size: 1.05em;
+    color: white;
 }
 
 .wrapper4 li {
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
+    font-size: 1.05em;
     font-weight: 300;
 }
 
