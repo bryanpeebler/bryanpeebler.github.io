@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600|Roboto+Slab:100,300,400,500');
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
@@ -627,11 +626,11 @@ iframe {
     }
     .biobox {
         width: 75%;
-        margin: 0 0 2% 0;
+        margin: 0 0 2.5em 0;
     }
     .biobox3 {
         width: 100%;
-        margin: 1% 0;
+        margin: 1em 0;
     }
     .biobox2 {
         width: 80%;
@@ -641,7 +640,7 @@ iframe {
         padding: 0;
     }
     h3.graytitle {
-        margin: 3% 0 0 0;
+        margin: 2em 0 0 0;
     }
 }
 @media only screen and (max-width: 971px) {
