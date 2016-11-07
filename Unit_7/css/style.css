@@ -838,7 +838,13 @@ iframe {
     .hopetext { 
         width: 90%;
     }
-
+    .floating-box2 {
+        display: none;
+    }
+    .floating-box2.hiddenbox {
+        display: block;
+        clear: both;
+    }
 }
 
 @media only screen and (max-width: 442px) {
