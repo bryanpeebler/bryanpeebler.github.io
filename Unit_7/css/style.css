@@ -792,6 +792,7 @@ iframe {
         width: 100%;
         height: 17em;
     }
+
     .backgroundbox2 {
         width: 100%;
         height: 14em;
@@ -800,7 +801,7 @@ iframe {
         display: block;
         width: 100%;
         text-align: left;
-        margin:  0 1% 0;
+        margin:  0 1% 1% 0;
         clear: none;
         float: none;
     }
@@ -819,7 +820,7 @@ iframe {
     img.picturebox2 {
         float: left;
         width: 30%;
-        margin: 0 3% 0 0;
+        margin: 0 4% .3% 0;
     }
 
     .missionh1 {
@@ -837,8 +838,18 @@ iframe {
     .hopetext { 
         width: 90%;
     }
+
 }
 
+@media only screen and (max-width: 442px) {
+    
+    img.picturebox2 {
+        margin: 0 4% 0 0;
+    }
+    .backgroundbox {
+        height: 19em;
+    }
+  }
 
 @media only screen and (max-width: 375px) {
 
@@ -891,3 +902,7 @@ iframe {
         margin: 0 5% 0 0;
     }
 }
+@media only screen and (max-width: 338px) {
+    .backgroundbox {
+        height: 
+    }
