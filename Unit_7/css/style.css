@@ -597,8 +597,8 @@ iframe {
     background-color: black;
 }
 
-#hiddenbox1 {
-    /* display: none; */
+.hiddenbox {
+    display: none;
 }
 
 @media only screen and (max-width: 1196px) {
