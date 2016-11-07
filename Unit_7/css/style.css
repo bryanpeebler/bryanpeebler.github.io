@@ -227,7 +227,9 @@ iframe {
     border-top: 3px solid #BFB8B4;
     font-size: 1.05em;
 }
-
+.wrapper5 h2 {
+    margin: 0 0 .5em 0;
+}
 .floating-box2 {
     padding: .75em 1.25em;
     border: 3px solid #BFB8B4;
@@ -586,10 +588,6 @@ iframe {
     margin: 0 5%;
 }
 
-.wrapper5 h2 {
-    margin: .5%;
-}
-
 .footer a {
     color: #000;
 }
@@ -618,11 +616,14 @@ iframe {
     img.picturebox2 {
         width: 70%;
     }
+    img.picturebox3 {
+        width: 40%;
+    }
     img.picturebox5 {
-        width: 18%;
+        width: 9em;
     }
     img.picturebox6 {
-        width: 14%;
+        width: 7em;
     }
     .biobox {
         width: 75%;
@@ -711,14 +712,30 @@ iframe {
     }
 } 
 
-@media only screen and (max-width: 927px) {
+@media only screen and (max-width: 956px) {
+    .biobox2 {
+        width: 61vw;
+    }
+
+@media only screen and (max-width: 928px) {
     .boxtext {
         padding: 0;
     }
     .backgroundbox {
         height: 34.5em;
     }
+    .biobox2 {
+        width: 60vw;
+    }
+    .biobox {
+        width: 55vw;
+    }
 }
+
+@media only screen and (max-width: 870px) {
+    .biobox2 {
+        width: 55vw;
+    }
 
 @media only screen and (max-width: 886px) {
     .floating-box2 {
@@ -771,6 +788,9 @@ iframe {
         padding: 1em 1em;
         height: 30.5em;
         }
+    img.picturebox6 {
+        width: 5.5em
+    }
 }
 
 @media only screen and (max-width: 792px) {
@@ -907,6 +927,52 @@ iframe {
     .floating-box {
         font-size: 1em;
     }
+
+@media only screen and (max-width: 529px) {
+    img.picturebox5 {
+        float: none;
+        width: 12em;
+        margin: 0 auto 
+    }
+    h2.biotitle2 {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+    }
+    .wrapper5 h3 {
+        text-align: center;
+        margin: 0 0 .5em 0;
+    }
+    .biobox {
+        width: 100%;
+        padding: 1em;
+        margin: 0;
+    }
+    img.picturebox6 {
+        float: none;
+        width: 10em;
+        margin: auto
+    }
+    .biobox2 {
+        width: 100%;
+        padding: 1em;
+
+    }
+    .biobox3 {
+        margin: .5em;
+    }
+    h2.biotitle {
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
+    img.picturebox3 {
+        float: none;
+        width: 18em;
+        margin: 1em auto 1em
+    }
+
+
 
 @media only screen and (max-width: 480px) {
     .backgroundbox {
