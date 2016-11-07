@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600|Roboto+Slab:100,300,400,500');
+
 
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
@@ -90,7 +90,7 @@ li {
 }
 .wrapper4 p {
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
+    font-size: 1.05em;
     font-weight: 300;
 }
 
@@ -224,6 +224,7 @@ iframe {
     background: #3FA19D;
     color: #EBEDEB;
     border-top: 3px solid #BFB8B4;
+    font-size: 1.05em;
 }
 
 .floating-box2 {
