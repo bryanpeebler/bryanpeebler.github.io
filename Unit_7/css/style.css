@@ -984,11 +984,9 @@ iframe {
     img.picturebox3 {
         float: none;
         margin: 3% auto 4%;
-        width: 75%;
+        width: 15em;
     }
-    img.picturebox5 {
-        width: 38%;
-    }
+
 }
 
 @media only screen and (max-width: 442px) {
