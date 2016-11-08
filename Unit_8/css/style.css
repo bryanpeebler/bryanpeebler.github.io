@@ -621,7 +621,7 @@ iframe {
         width: 70%;
     }
     img.picturebox3 {
-        width: 40%;
+        width: 20em;
     }
     img.picturebox5 {
         width: 9em;
@@ -702,14 +702,9 @@ iframe {
     img.picturebox2 {
         width: 80%;
     }
-    img.picturebox3 {
-        width: 35%;
-    }
-    
     .hopebox2 {
         width: 40%;
     }
-
     .boxtext {
         width: 100%;
         padding: 2% 2% 4% 1%;
@@ -757,9 +752,6 @@ iframe {
     img.picturebox2 {
         width: 90%;
     }
-    img.picturebox3 {
-        width: 45%;
-    }
     img.picturebox5 {
         width: 22%;
     }
@@ -772,6 +764,9 @@ iframe {
 @media only screen and (max-width: 841px) {
     .floating-box2 {
         padding: .75em .5em;
+    }
+    img.picturebox3 {
+        width: 18em;
     }
 }
 
@@ -877,7 +872,7 @@ iframe {
         margin: 0 4% .3% 0;
     }
     img.picturebox3 {
-        width: 50%;
+        width: 15em;
     }
     img.picturebox5 {
         width: 24%;
