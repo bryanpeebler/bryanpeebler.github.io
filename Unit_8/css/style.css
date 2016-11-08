@@ -1052,24 +1052,7 @@ iframe {
         font-size: 1em;
         margin: 0 0.5em .75em;
     }
-    .floating-box {
-        font-size: 1em;
-        margin: .5em 0 .25em 
-    }
-    .backgroundbox {
-        height: 20em;
-    }
-    .backgroundbox2 {
-        height: 17em;
-    }
-    img.picturebox2 {
-        margin: 0 5% 0 0;
-    }
-    img.picturebox5 {
-        float: none;
-        width: 10em;
-        margin: 1% auto 3%;
-    }
+    
     .wrapper5 p {
         text-align: center;
     }
@@ -1077,4 +1060,5 @@ iframe {
         margin: .2em;
     }
 }
+
 
