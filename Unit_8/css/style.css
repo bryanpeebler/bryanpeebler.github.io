@@ -633,6 +633,9 @@ iframe {
     img.picturebox3 {
         width: 40%;
     }
+    img.picturebox3b {
+        width: 15em;
+    }
     img.picturebox5 {
         width: 9em;
     }
@@ -838,6 +841,9 @@ iframe {
     .titleh3 {
         font-size: 1.1em;
     }
+    img.picturebox3b {
+        width: 13em;
+    }
 }
 
 @media only screen and (max-width: 731px) {
@@ -896,6 +902,11 @@ iframe {
     }
     img.picturebox3 {
         width: 16em;
+    }
+    img.picturebox3b {
+        display: block;
+        float: none;
+        margin: 0 auto 2em;
     }
     img.picturebox5 {
         width: 24%;
