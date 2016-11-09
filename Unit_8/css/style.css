@@ -765,9 +765,6 @@ iframe {
     img.picturebox3 {
         width: 45%;
     }
-    img.picturebox5 {
-        width: 22%;
-    }
 }
 
 @media only screen and (max-width: 848px) {
@@ -890,9 +887,6 @@ iframe {
     img.picturebox3 {
         width: 16em;
     }
-    img.picturebox5 {
-        width: 24%;
-    }
     .missionh1 {
         font-size: 1.3em;
         max-width: none;
@@ -935,7 +929,7 @@ iframe {
 @media only screen and (max-width: 602px) {
     img.picturebox5 {
         float: none;
-        width: 12em;
+        width: 10em;
         margin: 0 auto 
     }
     h2.biotitle2 {
@@ -1047,6 +1041,9 @@ iframe {
     .hopepic {
         width: 18em
     }
+    img.picturebox5 {
+        width: 9em;
+    }
 
 @media only screen and (max-width: 375px) {
     .missionh1 {
@@ -1069,9 +1066,6 @@ iframe {
     }
     .boxtext {
         margin: 0 0 2em 0;
-    }
-    img.picturebox5 {
-        width: 10em;
     }
 }
 
