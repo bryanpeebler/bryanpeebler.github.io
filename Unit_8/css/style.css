@@ -602,8 +602,10 @@ iframe {
 }
 
 .donate_button {
-    width: 20em;
+    width: 25em;
+    margin: .5em 0 .5em 0;
 }
+
 @media only screen and (max-width: 1420px) {
     .backgroundbox2 {
         height: 29em;
