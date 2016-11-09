@@ -606,6 +606,11 @@ iframe {
     margin: .5em 0 .5em 0;
 }
 
+.wrapper4 h3 {
+    font-size: 1.1em;
+    padding: .5em 0;
+}
+
 @media only screen and (max-width: 1420px) {
     .backgroundbox2 {
         height: 29em;
@@ -627,9 +632,6 @@ iframe {
     }
     img.picturebox3 {
         width: 40%;
-    }
-    img.picturebox3b {
-        width: 35%;
     }
     img.picturebox5 {
         width: 9em;
@@ -853,9 +855,6 @@ iframe {
         padding: .75em;
         height: 31em;
     }
-    img.picturebox3b {
-        width: 12em;
-    }
 }
     
 @media only screen and (max-width: 667px) {
@@ -895,11 +894,6 @@ iframe {
     }
     img.picturebox3 {
         width: 16em;
-    }
-    img.picturebox3b {
-        float: none;
-        width: 13em;
-        margin: 0 auto 2em;
     }
     img.picturebox5 {
         width: 24%;
