@@ -628,6 +628,9 @@ iframe {
     img.picturebox3 {
         width: 40%;
     }
+    img.picturebox3b {
+        width: 35%;
+    }
     img.picturebox5 {
         width: 9em;
     }
@@ -765,6 +768,9 @@ iframe {
     img.picturebox3 {
         width: 45%;
     }
+    img.picturebox5 {
+        width: 22%;
+    }
 }
 
 @media only screen and (max-width: 848px) {
@@ -847,6 +853,9 @@ iframe {
         padding: .75em;
         height: 31em;
     }
+    img.picturebox3b {
+        width: 12em;
+    }
 }
     
 @media only screen and (max-width: 667px) {
@@ -886,6 +895,14 @@ iframe {
     }
     img.picturebox3 {
         width: 16em;
+    }
+    img.picturebox3b {
+        float: none;
+        width: 13em;
+        margin: 0 auto 2em;
+    }
+    img.picturebox5 {
+        width: 24%;
     }
     .missionh1 {
         font-size: 1.3em;
@@ -929,7 +946,7 @@ iframe {
 @media only screen and (max-width: 602px) {
     img.picturebox5 {
         float: none;
-        width: 10em;
+        width: 12em;
         margin: 0 auto 
     }
     h2.biotitle2 {
@@ -1041,9 +1058,6 @@ iframe {
     .hopepic {
         width: 18em
     }
-    img.picturebox5 {
-        width: 9em;
-    }
 
 @media only screen and (max-width: 375px) {
     .missionh1 {
@@ -1067,5 +1081,7 @@ iframe {
     .boxtext {
         margin: 0 0 2em 0;
     }
+    img.picturebox5 {
+        width: 10em;
+    }
 }
-
