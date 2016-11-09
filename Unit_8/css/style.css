@@ -749,6 +749,11 @@ iframe {
     .biobox2 {
         width: 55vw;
     }
+    iframe {
+        display: block;
+        float: none;
+        margin: .5em auto 1em;
+    }
 
 @media only screen and (max-width: 886px) {
     .floating-box2 {
@@ -996,6 +1001,11 @@ iframe {
         width: 20em;
     }
 
+@media only screen and (max-width: 526px) {
+    iframe {
+        width: 21em;
+    }
+
 @media only screen and (max-width: 480px) {
     .backgroundbox {
         height: 17.5em;
@@ -1011,13 +1021,25 @@ iframe {
     img.picturebox8 {
         width: 17em;
     }
+    iframe {
+        width: 20em;
+    }
 }
+
+@media only screen and (max-width: 458px) {
+    iframe {
+        width: 19em;
+    }
+
 @media only screen and (max-width: 442px) { 
     img.picturebox2 {
         margin: 0 4% 0 0;
     }
     .backgroundbox {
         height: 19em;
+    }
+    iframe {
+        width: 18em;
     }
   }
 @media only screen and (max-width: 397px) {
@@ -1059,6 +1081,9 @@ iframe {
     .hopepic {
         width: 18em
     }
+    iframe {
+        width: 16em;
+    }
 
 @media only screen and (max-width: 375px) {
     .missionh1 {
@@ -1087,5 +1112,8 @@ iframe {
     }
     img.picturebox8 {
         width: 15em;
+    }
+    iframe {
+        width: 14em;
     }
 }
