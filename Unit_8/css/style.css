@@ -639,6 +639,9 @@ iframe {
     img.picturebox6 {
         width: 7em;
     }
+    .hopebox2 {
+        width: 20em;
+    }
     .biobox {
         width: 75%;
         margin: 0 0 2.5em 0;
@@ -700,24 +703,20 @@ iframe {
     .wrapper4 li {
         font-size: .9em;
     }
-
     .wrapper5 p {
         font-size: 1em;
     }
-
     .wrapper5 h2 {
         font-size: 1.3em
     }
-
     img.picturebox2 {
         width: 80%;
     }
     img.picturebox3 {
         width: 35%;
     }
-    
     .hopebox2 {
-        width: 40%;
+        width: 18em;
     }
 
     .boxtext {
@@ -858,7 +857,6 @@ iframe {
 }
     
 @media only screen and (max-width: 667px) {
-    
     .backgroundbox {
         width: 100%;
         height: 17em;
@@ -881,8 +879,7 @@ iframe {
     }
     .boxtext {
         display: block;
-        width: 100%;
-       
+        width: 100%; 
     }
     .hopepic {
         width: 60%;
@@ -910,6 +907,11 @@ iframe {
     }
     .hopetext { 
         width: 90%;
+    }
+    .hopebox2 {
+        float: none;
+        margin: 0 auto;
+
     }
 }
 
@@ -965,7 +967,6 @@ iframe {
     .biobox2 {
         width: 100%;
         padding: 1em;
-
     }
     .biobox3 {
         margin: .5em;
@@ -991,6 +992,10 @@ iframe {
     .floating-box {
         font-size: 1em;
     }
+    img.picturebox8 {
+        width: 20em;
+    }
+
 @media only screen and (max-width: 480px) {
     .backgroundbox {
         height: 17.5em;
@@ -1003,9 +1008,11 @@ iframe {
         margin: 3% auto 4%;
         width: 18em;
     }
+    img.picturebox8 {
+        width: 17em;
+    }
 }
-@media only screen and (max-width: 442px) {
-    
+@media only screen and (max-width: 442px) { 
     img.picturebox2 {
         margin: 0 4% 0 0;
     }
@@ -1077,5 +1084,8 @@ iframe {
     }
     img.picturebox5 {
         width: 10em;
+    }
+    img.picturebox8 {
+        width: 15em;
     }
 }
