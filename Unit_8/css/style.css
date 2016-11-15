@@ -51,7 +51,8 @@ nav {
 }
 
 nav a {
-    padding: .75em;
+    display: inline-block;
+    padding: .5em .75em;
     font-size: 1.025em;
 }
 
@@ -1047,6 +1048,20 @@ iframe {
     iframe {
         width: 18em;
     }
+    #mission, #resources, #programs {
+        display: none;
+    }
+    .logo {
+        float: left;
+        margin: 1.75em 1em;
+    }
+    .menu {
+        width: 100%;
+    }
+    nav a {
+        padding: .2em;
+        font-size: 1em
+    } 
   }
 @media only screen and (max-width: 397px) {
     .floating-box {
@@ -1059,10 +1074,7 @@ iframe {
     .missionh3 {
         padding: 0 .5em;
     }
-    .logo {
-        display: block;
-        margin: 1em auto 1em;
-    }
+
     img.picturebox2 {
         float: none;
         width: 10em;
