@@ -1104,6 +1104,11 @@ iframe {
     }
 
 @media only screen and (max-width: 375px) {
+    .logo {
+        width: 45%;
+        margin: 2.65em .95em;
+    }
+
     .missionh1 {
         font-size: 1.1em;
         width: 90%;
