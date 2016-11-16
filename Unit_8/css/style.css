@@ -64,7 +64,17 @@ nav a:hover {
     color: #FFF;
 }
 
+#Our_Programs a .boxtext {
+    color: #000;
+}
 
+#Our_Programs a .titleh3 {
+    color: #000;
+}
+
+#Hope-Stories a {
+    color: #FFF;
+}
 li a:hover {
     background-color: #111;
 }
