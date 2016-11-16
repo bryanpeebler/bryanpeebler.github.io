@@ -1157,4 +1157,16 @@ iframe {
     iframe {
         width: 14em;
     }
+    #Splash {
+        padding: 6em 0 1em;
+
+    }
+    .floating-box {
+        width: 7em;
+        line-height: .7em;
+    }
+    .missionh1 {
+        margin: .95em;
+        padding: .25em;
+    }
 }
