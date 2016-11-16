@@ -56,6 +56,10 @@ nav a {
     font-size: 1.025em;
 }
 
+nav a:hover {
+    color: black;
+}
+
 .menu a {
     color: #FFF;
 }
