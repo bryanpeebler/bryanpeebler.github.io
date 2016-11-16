@@ -952,6 +952,18 @@ iframe {
     }
 
 @media only screen and (max-width: 602px) {
+    .logo {
+        display: block;
+    }
+    nav {
+        text-align: center;
+    }
+    nav a {
+        padding: .5em .7em
+    }
+    .menu {
+        padding: .25em
+    }
     img.picturebox5 {
         float: none;
         width: 12em;
@@ -1008,6 +1020,11 @@ iframe {
         width: 20em;
     }
 
+@media only screen and (max-width: 538px) {
+    #resources {
+        display: none;
+    }
+
 @media only screen and (max-width: 526px) {
     iframe {
         width: 21em;
@@ -1031,6 +1048,23 @@ iframe {
     iframe {
         width: 20em;
     }
+    .logo {
+        float: l
+        margin: 5% 1em;
+    }
+    .menu {
+        width: 100%;
+    }
+    nav {
+        display: block;
+    }
+    nav a {
+        padding: .25em;
+        font-size: 1em;
+    }
+    #mission {
+        display: none;
+    } 
 }
 
 @media only screen and (max-width: 458px) {
@@ -1048,20 +1082,10 @@ iframe {
     iframe {
         width: 18em;
     }
-    #mission, #resources, #programs {
+    #mission, #resources, {
         display: none;
     }
-    .logo {
-        float: left;
-        margin: 1.75em 1em;
-    }
-    .menu {
-        width: 100%;
-    }
-    nav a {
-        padding: .2em;
-        font-size: 1em
-    } 
+
   }
 @media only screen and (max-width: 397px) {
     .floating-box {
@@ -1106,11 +1130,20 @@ iframe {
 @media only screen and (max-width: 375px) {
     .logo {
         width: 45%;
-        margin: 2.65em .95em;
+        margin: 10% 1em;
+        float: left;
     }
-
+    #programs {
+        display: none;
+    }
+    nav {
+        text-align: left;
+    }
+    nav a {
+        padding: .2em;
+    }
     .missionh1 {
-        font-size: 1.1em;
+        font-size: 1.05em;
         width: 90%;
     }
     .missionh3 {
