@@ -403,8 +403,8 @@ img.picturebox4 {
 img.picturebox5 {
     float: left;
     display: block;
-    width: 15%;
-    margin: 0 3% 0 0%;
+    width: 8em;
+    margin: 1.5em 3% 0 0%;
 }
 
 img.picturebox6 {
@@ -645,9 +645,6 @@ iframe {
     }
     img.picturebox3b {
         width: 15em;
-    }
-    img.picturebox5 {
-        width: 9em;
     }
     img.picturebox6 {
         width: 7em;
@@ -918,9 +915,6 @@ iframe {
         float: none;
         margin: 0 auto 2em;
     }
-    img.picturebox5 {
-        width: 24%;
-    }
     .missionh1 {
         font-size: 1.3em;
         max-width: none;
@@ -937,9 +931,6 @@ iframe {
     .hopebox2 {
         float: none;
         margin: 0 auto;
-    }
-    .floating-box2 {
-
     }
 }
 
