@@ -1169,4 +1169,8 @@ iframe {
         margin: .95em;
         padding: .25em;
     }
+    @media only screen and (max-width: 355px) {
+    .logo {
+        width: 42%;
+    }
 }
