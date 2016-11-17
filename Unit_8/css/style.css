@@ -806,13 +806,16 @@ iframe {
         }
 
 }
-
 @media only screen and (max-width: 792px) {
     .backgroundbox {
         height: 38.5em;
     }
 }
-
+@media only screen and (max-width: 775px) {
+    .backgroundbox {
+        height: 39.5em;
+    }
+}
 @media only screen and (max-width: 771px) {
     .backgroundbox {
         padding: .75em;
@@ -1027,6 +1030,14 @@ iframe {
     iframe {
         width: 21em;
     }
+@media only screen and (max-width: 493px) {
+    .hopebox2 {
+        width: 20em
+    }
+    img.picturebox7 {
+        width: 100%;
+        margin: .75em 0;
+    }
 
 @media only screen and (max-width: 480px) {
 
@@ -1075,7 +1086,9 @@ iframe {
     #mission, #resources, {
         display: none;
     }
-
+    .hopebox2 {
+        width: 17em
+    }
   }
 @media only screen and (max-width: 397px) {
     .floating-box {
@@ -1105,6 +1118,9 @@ iframe {
     }
     iframe {
         width: 16em;
+    }
+    .hopebox2 {
+        width: 16em
     }
 
 @media only screen and (max-width: 375px) {
@@ -1165,4 +1181,13 @@ iframe {
     .logo {
         width: 7em;
     }
+    input.donate_button {
+        width: 22em
+    }
+    .hopebox2 {
+        width: 16em;
+    }
 }
+
+
+
