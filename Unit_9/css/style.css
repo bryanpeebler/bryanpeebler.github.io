@@ -533,7 +533,7 @@ form {
     clear:both;
     float: right;
     display: block;
-    width: 35%;
+    width: 23em;
     margin: 1% 0 0 3%;
 }
 
@@ -650,10 +650,6 @@ iframe {
     img.picturebox6 {
         width: 7em;
     }
-    .hopebox2 {
-        width: 20em;
-    }
-   
 }
 @media only screen and (max-width: 971px) {
     .missionh1 {
@@ -701,7 +697,7 @@ iframe {
     }
 
     .hopebox2 {
-        width: 18em;
+        width: 20em;
     }
 
     .boxtext {
@@ -792,6 +788,9 @@ iframe {
     .backgroundbox {
         padding: .75em;
         height: 34.5em;
+    }
+    .hopebox2 {
+        width: 17em;
     }
 }
 @media only screen and (max-width: 768px) {
@@ -1166,4 +1165,4 @@ iframe {
     .hopebox2 {
         width: 16em;
     }
-}s
+}
