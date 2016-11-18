@@ -81,8 +81,7 @@ li a:hover {
 
 li {
     list-style-position: inside;
-    padding: 0 0 0 1%;
-    font-size: 1em;
+    padding: 0 0 0 0em;
 }
 
 .textlist {
@@ -119,6 +118,9 @@ li {
     font-family: 'Roboto Slab', serif;
     font-size: 1.05em;
     font-weight: 300;
+    font-size: 1em;
+    text-indent: -36px;
+    padding: 0 0 0 2.5em
 }
 
 .wrapper4 li a {
