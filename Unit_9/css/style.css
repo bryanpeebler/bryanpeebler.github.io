@@ -259,17 +259,6 @@ iframe {
     background-color: #195452;
     color: #FFF;
 }
-.floating-box2_center {
-    display: inline-block;
-    margin: 0 12%;
-    padding: .75em 1.25em;
-    border: 3px solid #BFB8B4;
-    text-align: center;
-    vertical-align: center;
-    font-weight: 400;
-    background-color: #195452;
-    color: #FFF;
-}
 
 #Our_Programs {
     display: block;
@@ -300,7 +289,6 @@ iframe {
     font-weight: 400
 }
 
-
 .backgroundbox {
     float: left;
     width: 33.33%;
@@ -325,15 +313,6 @@ iframe {
     margin: auto;
 }
 
-.backgroundbox_right {
-    float: left;
-    border: none;
-    width: 22%;
-    height: 100%;
-    margin: 1% 14% 0 1.5%;
-    padding: 0;
-    text-align: center;
-}
 
 .biobox {
     float: left;
@@ -359,15 +338,6 @@ iframe {
     width: 100%;
 }
 
-.backgroundbox4 {
-    float: left;
-    border: none;
-    width: 33.3%;
-    height: 80%;
-    margin: 0 auto;
-    padding: 1%;
-    text-align: center;
-}
 
 img.picturebox2 {
     border:3px solid #195452;
@@ -1167,7 +1137,6 @@ iframe {
     }
     #Splash {
         padding: 6em 0 1em;
-
     }
     .floating-box {
         width: 7em;
@@ -1188,6 +1157,3 @@ iframe {
         width: 16em;
     }
 }
-
-
-
