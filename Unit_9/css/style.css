@@ -718,12 +718,14 @@ iframe {
         height: 34.5em;
     }
 
-
 @media only screen and (max-width: 870px) {
     iframe {
         display: block;
         float: none;
         margin: .5em auto 1em;
+    }
+    img.picturebox8 {
+        width: 24em;
     }
 
 @media only screen and (max-width: 886px) {
@@ -1017,7 +1019,7 @@ iframe {
         width: 18em;
     }
     img.picturebox8 {
-        width: 17em;
+        width: 18em;
     }
     iframe {
         width: 20em;
