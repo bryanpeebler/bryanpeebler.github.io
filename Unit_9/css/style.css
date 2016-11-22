@@ -727,6 +727,9 @@ iframe {
     .backgroundbox {
         height: 34.5em;
     }
+    img.picturebox9 {
+        width: 18em;
+    }
 }
 
 @media only screen and (max-width: 870px) {
@@ -856,6 +859,9 @@ iframe {
     .backgroundbox2 {
         padding: .75em;
         height: 31em;
+    }
+    img.picturebox9 {
+        width: 14em;
     }
 }
     
@@ -1003,8 +1009,17 @@ iframe {
         width: 18em;
         margin: 1em auto 1em
     }
-    .partnerbox2 {
+    .partnerbox {
        float: none;
+       width: 100%;
+       margin: 0 0 1em 0;
+    }
+    .partnerbox2 {
+        width: 100%;
+        margin: 0;
+    }
+    img.picturebox9 {
+        width: 22em
     }
 }
 
@@ -1074,14 +1089,9 @@ iframe {
     }
     #mission {
         display: none;
-    }
-    .partnerbox {
-        width: 100%;
-        margin: 0 0 2em;
-    }
-    .partnerbox2 {
-        width: 100%;
-        margin: 0;
+    } 
+    img.picturebox9 {
+        width: 18em;
     }
 }
 
@@ -1137,6 +1147,9 @@ iframe {
     }
     .hopebox2 {
         width: 16em
+    }
+    img.picturebox9 {
+        width: 16em;
     }
 }
 @media only screen and (max-width: 375px) {
@@ -1209,6 +1222,9 @@ iframe {
         width: 22em
     }
     .hopebox2 {
+        width: 16em;
+    }
+    img.picturebox9 {
         width: 16em;
     }
 }
