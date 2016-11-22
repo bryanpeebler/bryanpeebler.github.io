@@ -405,7 +405,7 @@ img.picturebox9 {
     display: block;
     border:3px solid #195452;
     width: 20em;
-    margin: 1% 0% 1% 3%;
+    margin: auto;
 }
 
 .footer_left {
@@ -604,10 +604,13 @@ iframe {
     .backgroundbox2 {
         height: 29em;
     }
+}
+
 @media only screen and (max-width: 1196px) {
     .boxtext {
         padding: 0 1.25em;
     }
+}
 
 @media only screen and (max-width: 1116px) {
 
@@ -642,6 +645,7 @@ iframe {
     h3.graytitle {
         margin: 1em 0 .5em 0;
     }
+}
 
 @media only screen and (max-width: 1021px) {
     .boxtext {
@@ -660,6 +664,7 @@ iframe {
         width: 7em;
     }
 }
+
 @media only screen and (max-width: 971px) {
     .missionh1 {
         font-size: 1.25em;
@@ -722,6 +727,7 @@ iframe {
     .backgroundbox {
         height: 34.5em;
     }
+}
 
 @media only screen and (max-width: 870px) {
     iframe {
@@ -732,6 +738,7 @@ iframe {
     img.picturebox8 {
         width: 24em;
     }
+}
 
 @media only screen and (max-width: 886px) {
     .floating-box2 {
@@ -758,6 +765,8 @@ iframe {
     .backgroundbox2 {
         height: 31em;
     }
+}
+
 @media only screen and (max-width: 841px) {
     .floating-box2 {
         padding: .75em .5em;
@@ -783,16 +792,22 @@ iframe {
         }
 
 }
+
 @media only screen and (max-width: 792px) {
     .backgroundbox {
         height: 38.5em;
     }
 }
+
 @media only screen and (max-width: 775px) {
     .backgroundbox {
         height: 39.5em;
     }
+    img.picturebox9 {
+        width: 16em;
+    }
 }
+
 @media only screen and (max-width: 771px) {
     .backgroundbox {
         padding: .75em;
@@ -802,6 +817,7 @@ iframe {
         width: 17em;
     }
 }
+
 @media only screen and (max-width: 768px) {
     .backgroundbox {
         height: 36em;
@@ -835,7 +851,7 @@ iframe {
     .gnp_badge2 {
         margin: 0;
     }
-
+}
 @media only screen and (max-width: 728px) {
     .backgroundbox2 {
         padding: .75em;
@@ -930,6 +946,7 @@ iframe {
     .missionh3 {
         font-size: 1.05em
     }
+}
 
 @media only screen and (max-width: 602px) {
     .logo {
@@ -986,7 +1003,11 @@ iframe {
         width: 18em;
         margin: 1em auto 1em
     }
+    .partnerbox2 {
+       float: none;
+    }
 }
+
 @media only screen and (max-width: 552px) {
     .missionh3 {
         font-size: 1em;
@@ -1000,16 +1021,20 @@ iframe {
     img.picturebox8 {
         width: 20em;
     }
+}
 
 @media only screen and (max-width: 538px) {
     #resources {
         display: none;
     }
+}
 
 @media only screen and (max-width: 526px) {
     iframe {
         width: 21em;
     }
+}
+
 @media only screen and (max-width: 493px) {
     .hopebox2 {
         width: 20em
@@ -1018,6 +1043,7 @@ iframe {
         width: 100%;
         margin: .75em 0;
     }
+}
 
 @media only screen and (max-width: 480px) {
 
@@ -1055,6 +1081,7 @@ iframe {
     iframe {
         width: 19em;
     }
+}
 
 @media only screen and (max-width: 442px) { 
     img.picturebox2 {
@@ -1069,7 +1096,8 @@ iframe {
     .hopebox2 {
         width: 17em
     }
-  }
+}
+
 @media only screen and (max-width: 397px) {
     .floating-box {
         font-size: 1em;
@@ -1102,7 +1130,7 @@ iframe {
     .hopebox2 {
         width: 16em
     }
-
+}
 @media only screen and (max-width: 375px) {
     .logo {
         width: 8em;
@@ -1163,7 +1191,8 @@ iframe {
     .gnp_badge2 {
         text-align: center;
     }
-    
+}
+  
 @media only screen and (max-width: 355px) {
     .logo {
         width: 7em;
