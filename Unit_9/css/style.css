@@ -26,7 +26,7 @@ h2 {
 }
 
 h2.biotitle {
-    margin: 0;
+    margin: 2em;
     text-align: left;
     color: #FFF;
     font-size: 1.25em;
@@ -246,12 +246,8 @@ iframe {
 }
 .wrapper5 h2 {
     margin: 0 auto .5em;
-    width: 90%;
 }
 
-.wrapper5 p {
-    width: 90%
-}
 .floating-box2 {
     padding: .75em 1.25em;
     border: 3px solid #BFB8B4;
@@ -297,7 +293,7 @@ iframe {
     color: #FFF;
     text-align: center;
     font-size: 1.5em;
-    margin: .25em auto .75em;
+    margin: .25em auto 1.25em;
     font-weight: 400
 }
 
@@ -328,7 +324,7 @@ iframe {
 
 .biobox {
     float: left;
-    width: 80%;
+    width: 70%;
     margin: 0 0 2% 0;
 }
 
@@ -628,6 +624,11 @@ iframe {
         width: 100%;
         padding: .5em 1em;
         text-align: center;
+    }
+    
+    img.picturebox5 {
+        float: none;
+        margin: auto;
     }
     img.picturebox6 {
         float: none;
