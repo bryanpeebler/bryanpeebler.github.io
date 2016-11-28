@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,400,500,600|Roboto+Slab:100,300,400,500');
+
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
 body {
@@ -47,7 +47,9 @@ nav {
     background-color: #327B82;
     width: 100%;
     text-align: left;
-    padding: .5em .5em
+    padding: .5em .5em;
+    max-width: 1400px;
+    margin: auto;
 }
 
 nav a {
@@ -152,8 +154,10 @@ iframe {
 #Splash {
     background: url("./../images/Mentor_picture_large.png");
     background-size: cover;
-    margin: 1% 5% 2%;
+    margin: 1% auto 1em;
     padding: 20% 0 0 0;
+    width: 90%;
+    max-width: 1400px;
 }
 
 .carousel {
@@ -275,6 +279,7 @@ iframe {
     background: #FFF;
     margin: 0 auto;
     padding: .5%;
+    max-width: 1400px;
 }
 
 #Hope-Stories {
@@ -286,6 +291,7 @@ iframe {
     text-align: center;
     background: #3FA19D;
     color: #EBEDEB;
+    max-width: 1400px;
 }
 
 .graytitle {
