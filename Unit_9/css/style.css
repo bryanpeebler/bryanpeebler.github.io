@@ -47,7 +47,7 @@ nav {
     background-color: #327B82;
     width: 100%;
     text-align: left;
-    padding: .25em .5em
+    padding: .5em .5em
 }
 
 nav a {
@@ -96,6 +96,7 @@ li {
 .textlist a:hover {
     color: aquamarine;
 }
+
 .wrapper4 p {
     font-family: 'Roboto Slab', serif;
     font-size: 1.05em;
@@ -106,6 +107,10 @@ li {
     clear:both;
     margin: 1em auto 1em;
     font-weight: 400;
+}
+
+.wrapper4 ul {
+    font-size: 1.05em;
 }
 
 .wrapper5 p {
@@ -226,21 +231,26 @@ iframe {
 }
 
 .wrapper4 {
-    margin: 1% 5% 0;
+    margin: 0 5% 0;
     padding: .5% 5% 3% 5%;
     background: #FFF;
 }
 
 .wrapper5 {
     margin: 0% 5% 0;
-    padding: 2% 6% 3% 6%;
+    padding: 2% 10% 3% 10%;
     background: #3FA19D;
     color: #EBEDEB;
     border-top: 3px solid #BFB8B4;
     font-size: 1.05em;
 }
 .wrapper5 h2 {
-    margin: 0 0 .5em 0;
+    margin: 0 auto .5em;
+    width: 90%;
+}
+
+.wrapper5 p {
+    width: 90%
 }
 .floating-box2 {
     padding: .75em 1.25em;
@@ -352,7 +362,7 @@ img.picturebox3 {
     float: right;
     display: block;
     border:3px solid #195452;
-    width: 20em;
+    width: 45%;
     margin: 1% 0% 1% 3%;
 }
 
@@ -375,7 +385,7 @@ img.picturebox4 {
 img.picturebox5 {
     float: left;
     display: block;
-    width: 8em;
+    width: 11em;
     margin: 1.5em 3% 0 0%;
 }
 
@@ -619,11 +629,6 @@ iframe {
         padding: .5em 1em;
         text-align: center;
     }
-    img.picturebox5 {
-        float: none;
-        margin: auto;
-        width: 11em
-    }
     img.picturebox6 {
         float: none;
         margin: auto;
@@ -760,7 +765,7 @@ iframe {
         width: 90%;
     }
     img.picturebox3 {
-        width: 45%;
+        width: 50%;
     }
 }
 
@@ -930,6 +935,14 @@ iframe {
         float: none;
         margin: 0 auto;
     }
+    img.picturebox5 {
+        float: none;
+        width: 12em;
+        margin: 0 auto 
+    }
+    section.wrapper5 p {
+        width: 100%;
+    }
 }
 
 @media only screen and (max-width: 612px) {
@@ -967,11 +980,7 @@ iframe {
     .menu {
         padding: .25em
     }
-    img.picturebox5 {
-        float: none;
-        width: 12em;
-        margin: 0 auto 
-    }
+
     h2.biotitle2 {
         width: 100%;
         text-align: center;
