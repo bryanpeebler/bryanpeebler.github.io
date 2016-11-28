@@ -136,7 +136,9 @@ li {
 }
 
 header {
-    margin: 2% 5% 0;
+    margin: 2% auto 0;
+    width: 90%;
+    max-width: 1400px;
 }
 
 footer {
@@ -196,10 +198,6 @@ iframe {
 .logo {
     margin: 0 auto .5em;
     width: 150px;
-}
-
-.logobox {
-    width: 100%;
 }
 
 .highlight_text {
