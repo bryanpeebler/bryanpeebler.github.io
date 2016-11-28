@@ -198,6 +198,10 @@ iframe {
     width: 150px;
 }
 
+.logobox {
+    width: 100%;
+}
+
 .highlight_text {
     font-weight: 500;
     color: #000;
