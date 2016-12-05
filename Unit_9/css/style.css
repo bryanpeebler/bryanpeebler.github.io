@@ -430,7 +430,7 @@ img.picturebox10 {
     display: block;
     border:3px solid #195452;
     width: 100%;
-    margin: auto;
+    margin: 1.5em auto 0;
 }
 
 .footer_left {
