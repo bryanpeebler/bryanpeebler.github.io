@@ -785,7 +785,7 @@ iframe {
     }
     .biobox3 {
         width: 100%;
-        margin: .5em;
+        margin: .5em auto;
     }
     h2.biotitle {
         width: 100%;
