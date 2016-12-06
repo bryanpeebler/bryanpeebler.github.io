@@ -638,21 +638,20 @@ iframe {
     }
 }
 
-@media only screen and (max-width: 1116px) {
-
-    .biobox2 {
-        width: 100%;
-        padding: .5em 1em;
-        text-align: center;
+@media only screen and (max-width: 1181px) {
+    img.picturebox6 {
+        margin: 0 3% 7em 0%;
     }
-    
+}
+
+@media only screen and (max-width: 1138px) {
     img.picturebox5 {
         float: none;
         margin: auto;
     }
     img.picturebox6 {
         float: none;
-        margin: auto;
+        margin: 0 auto .5em;
         width: 9em
     }
     h2.biotitle {
@@ -661,6 +660,7 @@ iframe {
     .biobox {
         width: 100%;
         text-align: center;
+        margin: 0 auto 2em;
     }
     h2.biotitle2 {
         text-align: center;
@@ -685,9 +685,6 @@ iframe {
     }
     img.picturebox3b {
         width: 15em;
-    }
-    img.picturebox6 {
-        width: 7em;
     }
 }
 
@@ -773,6 +770,33 @@ iframe {
     .floating-box2 {
         padding: .75em .8em;
     }
+    .biobox {
+        width: 100%;
+        padding: 1em;
+        margin: 0 0 1.5em;
+    }
+    img.picturebox5 {
+        width: 15em;
+    }
+    img.picturebox6 {
+        float: none;
+        width: 10em;
+        margin: 0 auto 1em;
+    }
+    .biobox3 {
+        width: 100%;
+        margin: .5em;
+    }
+    h2.biotitle {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto .25em;
+    }
+    img.picturebox3 {
+        float: none;
+        width: 22em;
+        margin: 1em auto 1em
+    }
 }
 
 @media only screen and (max-width: 861px) {
@@ -785,9 +809,7 @@ iframe {
     img.picturebox2 {
         width: 90%;
     }
-    img.picturebox3 {
-        width: 50%;
-    }
+
 }
 
 @media only screen and (max-width: 848px) {
@@ -931,9 +953,7 @@ iframe {
         width: 8em;
         margin: .25em 4% .25em 0;
     }
-    img.picturebox3 {
-        width: 16em;
-    }
+
     img.picturebox3b {
         display: block;
         float: none;
@@ -955,11 +975,6 @@ iframe {
     .hopebox2 {
         float: none;
         margin: 0 auto;
-    }
-    img.picturebox5 {
-        float: none;
-        width: 12em;
-        margin: 0 auto 
     }
     section.wrapper5 p {
         width: 100%;
@@ -1011,34 +1026,7 @@ iframe {
         text-align: center;
         margin: 0 0 .5em 0;
     }
-    .biobox {
-        width: 100%;
-        padding: 1em;
-        margin: 0;
-    }
-    img.picturebox6 {
-        float: none;
-        width: 10em;
-        margin: auto
-    }
-    .biobox2 {
-        width: 100%;
-        padding: 1em;
-    }
-    .biobox3 {
-        width: 100%;
-        margin: .5em;
-    }
-    h2.biotitle {
-        width: 100%;
-        text-align: center;
-        margin: auto;
-    }
-    img.picturebox3 {
-        float: none;
-        width: 18em;
-        margin: 1em auto 1em
-    }
+
     .partnerbox {
        float: none;
        width: 100%;
