@@ -74,6 +74,9 @@ nav a:hover {
     color: #000;
 }
 
+#Our_Programs a .titleh3b {
+    color: #000;
+}
 #Hope-Stories a {
     color: #FFF;
 }
@@ -481,6 +484,13 @@ img.picturebox10 {
 }
 
 .titleh3 {
+    font-size: 1.25em;
+    font-weight: 400;
+    text-align: center;
+    margin: .5em 0 .25em;
+}
+
+.titleh3b {
     font-size: 1.25em;
     font-weight: 400;
     text-align: center;
@@ -979,6 +989,11 @@ iframe {
         clear: none;
         float: none;
     }
+
+    .titleh3b {
+    text-align: left;
+    }
+
     .container {
         width: 95%;
     }
@@ -992,7 +1007,7 @@ iframe {
     } 
     img.picturebox2 {
         float: left;
-        width: 8em;
+        width: 9em;
         margin: .25em 4% .25em 0;
     }
     img.picturebox2b {
