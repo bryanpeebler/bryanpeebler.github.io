@@ -214,6 +214,19 @@ iframe {
     padding-top: .75em;
     float: right;
 }
+
+.social3 {
+    width: 3em;
+    padding-top: 1em;
+    margin: 0 .5em 0 0;
+    margin: auto;
+}
+
+.social4 {
+    width: 2.5em;
+    padding-top: .75em;
+}
+
 .highlight_text {
     font-weight: 500;
     color: #000;
@@ -558,7 +571,7 @@ form {
 }
 
 #contact_footer {
-    padding: 2% 0 0 0;
+
     clear: both;
 }
 
@@ -1081,9 +1094,7 @@ iframe {
 }
 
 @media only screen and (max-width: 602px) {
-    .logo {
-        display: block;
-    }
+
     nav {
         text-align: center;
     }
@@ -1269,6 +1280,9 @@ iframe {
     #programs {
         display: none;
     }
+    #partners {
+        display: none;
+    }
     nav {
         text-align: left;
     }
@@ -1282,6 +1296,12 @@ iframe {
     .missionh3 {
         font-size: 1em;
         margin: 0 0.5em .75em;
+    }
+    .social {
+        display: none; 
+    }
+    .social2 {
+        display: none;
     }
     .wrapper5 p {
         text-align: center;
